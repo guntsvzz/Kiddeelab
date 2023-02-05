@@ -1,13 +1,21 @@
 import pygame
 import pgzrun
+import random
 TITLE = "Game1 Monkey"
 WIDTH, HEIGHT = 800, 600
+
 #Class Actor
 monkeyimage = ['monkey1','monkey2']
+#object = class()
 monkeySprite = Actor('monkey1') #object
 #object.variables
 monkeySprite.pos = (WIDTH/2,HEIGHT/2) #tuple #pos = position
 #object.method()
+bananaSprite = Actor('banana')
+bananaSprite.pos = (random.randint(0,WIDTH),0)
+spiderSprite = Actor('spider')
+spiderSprite.pos = (random.randint(0,WIDTH),0)
+
 
 def draw():
     # format screen.blit(image,tuple_position)
@@ -15,6 +23,8 @@ def draw():
     screen.blit('background',(0,0))
     screen.blit('ground',(0,0))
     monkeySprite.draw()
+    bananaSprite.draw()
+    spiderSprite.draw()
 
 def moving(): #non-smoothing
     if monkeySprite.image == monkeyimage[0]: #check
@@ -46,8 +56,22 @@ def movement():
         monkeySprite.x += 5 #short
         moving()
 
+def bananaSpawn():
+    bananaSprite.y += 6
+    if bananaSprite.y > HEIGHT:
+        bananaSprite.x = random.randint(0,WIDTH)
+        bananaSprite.y = 0
+   
+def spiderSpawn():
+    spiderSprite.y += 6
+    if spiderSprite.y > HEIGHT:
+        spiderSprite.pos = (random.randint(0,WIDTH),0)
+   
+
 def update(): #1/60 second
     movement()
     monkey_limit()
+    bananaSpawn()
+    spiderSpawn()
 
 pgzrun.go()
