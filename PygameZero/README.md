@@ -1,8 +1,5 @@
-# Game 1 Monkey
-<img src = "figures/game1.jpg" width=400>
-
-# Game 2
-
-# Game 3
-
-# Game 4
+| Game       | Images |
+|------------|---------|
+| 1. Monakey | <img src = "figures/game1.jpg" width=400> |
+| 2.         | <img src = "figures/game1.jpg" width=400> |
+| 3.         | <img src = "figures/game1.jpg" width=400> |
