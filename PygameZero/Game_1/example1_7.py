@@ -4,7 +4,6 @@ import random
 TITLE = "Game1 Monkey"
 WIDTH, HEIGHT = 800, 600
 
-
 class Sprite(Actor):
     speed = 5 
     def __init__(self):
