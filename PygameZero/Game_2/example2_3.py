@@ -15,6 +15,7 @@ pipe_speed = 3 #speed
 birdSprite.vy = 0
 GRAVITY = 0.3
 FLAP_VELOCITY = -5
+
 def draw():
     screen.blit('background',(0,0))
     birdSprite.draw()

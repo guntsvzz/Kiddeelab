@@ -8,6 +8,8 @@ monkeySprite = Actor('monkey1') #object
 #object.variables
 monkeySprite.pos = (WIDTH/2,HEIGHT/2) #tuple #pos = position
 #object.method()
+import speech_recognition as sr
+r = sr.Recognizer()
 
 def draw():
     # format screen.blit(image,tuple_position)
@@ -46,7 +48,24 @@ def movement():
         monkeySprite.x += 5 #short
         moving()
 
+def movement_speech(self,text):
+        if self.text == 'ซ้าย':
+            self.x -= self.speed #short
+        if self.text == 'ขวา':
+            self.x += self.speed #short
+
 def update(): #1/60 second
+    with sr.Microphone() as source:
+        print('Start Speaking now')
+        # while True:
+        audio = r.listen(source)
+        text = r.recognize_google(audio,language = "th-TH")
+        try:
+            print("You said " + text) # แสดงข้อความจากเสียงด้วย Google Speech Recognition และกำหนดค่าภาษาเป็นภาษาไทย
+        except sr.RequestError as e: # ประมวลผลแล้วไม่รู้จักหรือเข้าใจเสียง
+            print("Could not understand audio")
+            
+    movement_speech(text)
     movement()
     monkey_limit()
 
