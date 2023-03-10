@@ -132,8 +132,8 @@ def on_key_down(key):
             unlock = unlock - 1
             maze[row][column] = 0 #path
 
-    enemyMoving(enemy_1,grassblock)
-    enemyMoving(enemy_2,grassblock)
+    # enemyMoving(enemy_1,grassblock)
+    # enemyMoving(enemy_2,grassblock)
 
 def enemyMoving(enemy,player):
     global game_state
@@ -162,6 +162,8 @@ def enemyMoving(enemy,player):
 def update(time_interval):
     global timer,timer_start
     global game_state 
+    enemyMoving(enemy_1,grassblock)
+    enemyMoving(enemy_2,grassblock) 
     if game_state == 'play' : 
         timer = timer + time_interval #Count up
         print(round(timer,2))
