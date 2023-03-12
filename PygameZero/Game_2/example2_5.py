@@ -44,7 +44,6 @@ def draw():
     elif game_state == 'win':
         screen.draw.text('You win',center = (WIDTH/2, HEIGHT/2), color = (255,0,0), fontsize = 40)
         restart()
-        
     elif game_state == 'play':
         birdSprite.draw()
         pipe_top.draw()
