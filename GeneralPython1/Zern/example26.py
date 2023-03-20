@@ -66,3 +66,7 @@ if ask.isalpha():
 elif ask.isdigit():
     print('Wrong, u cannot type number')
 
+
+print(story.count('he')) #alphabet
+print(story.count('she')) #alphabet
+print(story.count('it')) #alphabet

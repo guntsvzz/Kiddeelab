@@ -66,7 +66,7 @@ def on_key_down(key):
     tile = tiles[material]
     
     if tile == 'path':
-        #Formate animate(sprite,duration,position)
+        #Formate animate(sprite, duration, position)
         x = column * TILE_SIZE
         y = row * TILE_SIZE
         print(f'x: {x} y: {y}')
