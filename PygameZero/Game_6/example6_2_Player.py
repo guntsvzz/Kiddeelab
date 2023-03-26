@@ -8,7 +8,9 @@ TITLE = 'Game 6'
 TILE_SIZE = 70
 tiles = {
     0 : 'path',
-    1 : 'wall'
+    1 : 'wall',
+    2 : 'lock_blue',
+    3 : 'keyblue'
 }
 maze = [
     #0  1  2  3  4  5  6  7  8  9  10 11
