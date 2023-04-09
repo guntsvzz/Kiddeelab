@@ -32,4 +32,9 @@ while True:
     nameCustomer = input('Please enter your name:') #ask again
     
 #### Result
-print(listCustomer)
+# print(listCustomer)
+print('-'*20)
+print('Total Booking', len(listCustomer))
+for idx, customer in enumerate(listCustomer):
+    print(idx+1, customer)
+print('Total Price', len(listCustomer) * VaccineInfo['Price'][number-1])
