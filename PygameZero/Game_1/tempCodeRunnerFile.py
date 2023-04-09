@@ -1,2 +1,0 @@
-
-    if monkeySprite.y >= HEIGHT:
