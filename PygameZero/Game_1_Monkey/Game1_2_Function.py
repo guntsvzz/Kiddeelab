@@ -25,17 +25,31 @@ def draw():
     bananaSprite.draw()
     spiderSprite.draw()
 
-def movement():
+def movement(player):
     if keyboard.w or keyboard.up: #full
-        monkeySprite.y = monkeySprite.y - 5 #full
+        player.y = player.y - 5 #full
+        monkey_limit(player)
     if keyboard.a or keyboard.left: #short
-        monkeySprite.x -= 5 #short
+        player.x -= 5 #short
+        monkey_limit(player)
     if keyboard.s or keyboard.down: #short
-        monkeySprite.y += 5 #short
+        player.y += 5 #short
+        monkey_limit(player)
     if keyboard.d or keyboard.right: #short
-        monkeySprite.x += 5 #short
+        player.x += 5 #short
+        monkey_limit(player)
+
+def monkey_limit(player):
+    if player.x >= WIDTH:
+        player.x = WIDTH
+    if player.x <= 0:
+        player.x = 0
+    if player.y >= HEIGHT:
+        player.y = HEIGHT
+    if player.y <= 0:
+        player.y = 0
 
 def update():
-    movement()
+    movement(monkeySprite)
 
 pgzrun.go()

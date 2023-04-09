@@ -15,17 +15,17 @@ def draw():
     screen.blit('ground',(0,0))
     monkeySprite.draw()
 
-def movement():
+def movement(player):
     if keyboard.w or keyboard.up: #full
-        monkeySprite.y = monkeySprite.y - 5 #full
+        player.y = player.y - 5 #full
     if keyboard.a or keyboard.left: #short
-        monkeySprite.x -= 5 #short
+        player.x -= 5 #short
     if keyboard.s or keyboard.down: #short
-        monkeySprite.y += 5 #short
+        player.y += 5 #short
     if keyboard.d or keyboard.right: #short
-        monkeySprite.x += 5 #short
+        player.x += 5 #short
 
 def update():
-    movement()
+    movement(monkeySprite)
 
 pgzrun.go()

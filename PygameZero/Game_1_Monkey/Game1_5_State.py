@@ -12,6 +12,7 @@ class Sprite(Actor):
         self.pos = pos
         self.score = 0
         self.hp = hp
+        self.game_state = 'play'
 
     def monkey_limit(self):
         if self.x >= WIDTH:
@@ -31,25 +32,29 @@ class Sprite(Actor):
             self.image = Sprite.monkeyimage[0] #change
             
     def movement(self):
-        if keyboard.w or keyboard.up: #full
-            monkeySprite.y = monkeySprite.y - 5 #full
-            self.moving()
-        if keyboard.a or keyboard.left: #short
-            monkeySprite.x -= 5 #short
-            self.moving()
-        if keyboard.s or keyboard.down: #short
-            monkeySprite.y += 5 #short
-            self.moving()    
-        if keyboard.d or keyboard.right: #short
-            monkeySprite.x += 5 #short
-            self.moving()
+        if self.game_state == 'play':
+            if keyboard.w or keyboard.up: #full
+                monkeySprite.y = monkeySprite.y - 5 #full
+                self.moving()
+            if keyboard.a or keyboard.left: #short
+                monkeySprite.x -= 5 #short
+                self.moving()
+            if keyboard.s or keyboard.down: #short
+                monkeySprite.y += 5 #short
+                self.moving()    
+            if keyboard.d or keyboard.right: #short
+                monkeySprite.x += 5 #short
+                self.moving()
 
     def touching(self, sprite, monster = False):
         if self.colliderect(sprite):
             if monster:
-                self.score += 1
-            else:
                 self.score -= 1
+                self.hp -= 1
+                if self.hp <= 0:
+                    self.game_state = 'lose'
+            else:
+                self.score += 1
             sprite.pos = (random.randint(0,WIDTH),0)
 
 class Fruit(Actor):
@@ -71,17 +76,25 @@ def draw():
     # screen.fill((255,255,0)) #Red Green Blue
     screen.blit('background',(0,0))
     screen.blit('ground',(0,0))
-    monkeySprite.draw()
-    bananaSprite.draw()
-    spiderSprite.draw()
-    #Format:  screen.draw.text(text, (x,y), color=(r,g,b), fontsize=20)
-    screen.draw.text(f'Score : {monkeySprite.score}',(15,10),color=(255,255,255),fontsize=40)
-    screen.draw.text(f'HP : {monkeySprite.hp}',(15,50),color=(255,255,255),fontsize=40)
+    if monkeySprite.game_state == 'win':
+        screen.draw.text(f'WIN\nScore : {monkeySprite.score}',center = (WIDTH/2,HEIGHT/2), color=(255,255,255),fontsize=40)
+    
+    elif monkeySprite.game_state == 'lose':
+        screen.draw.text(f'LOSE\nScore : {monkeySprite.score}',center = (WIDTH/2,HEIGHT/2), color=(255,255,255),fontsize=40)
+    
+    else: #play
+        monkeySprite.draw()
+        bananaSprite.draw()
+        spiderSprite.draw()
+        #Format:  screen.draw.text(text, (x,y), color=(r,g,b), fontsize=20)
+        screen.draw.text(f'Score : {monkeySprite.score}',(15,10),color=(255,255,255),fontsize=40)
+        screen.draw.text(f'HP : {monkeySprite.hp}',(15,50),color=(255,255,255),fontsize=40)
+
 
 def update(): #1/60 second
     monkeySprite.movement()
     monkeySprite.touching(bananaSprite)
-    monkeySprite.touching(spiderSprite,monster=True)
+    monkeySprite.touching(spiderSprite, monster=True)
     bananaSprite.spawn()
     spiderSprite.spawn()
 
