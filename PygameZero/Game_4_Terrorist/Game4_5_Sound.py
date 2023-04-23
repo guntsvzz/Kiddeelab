@@ -34,6 +34,19 @@ class Gun(Actor):
         self.game_state = 'main'
         self.score = 0
 
+
+    def gameSong(self):
+        if self.game_state == 'win' :
+            sounds.win.play()
+            sounds.snarebeat.stop()
+        elif self.game_state == 'gameover' :
+            sounds.gameover.play()
+            sounds.snarebeat.stop()
+        elif self.game_state == 'play' :
+            sounds.snarebeat.play(-1)
+            sounds.gameover.stop()
+            sounds.win.stop()    
+
 hostage_Sprite = Person('hostage', hostage=True)
 terror1_Sprite = Person('terror1')
 terror2_Sprite = Person('terror2')
@@ -51,6 +64,7 @@ def on_mouse_down(pos, button):
             hostageshot = True
             print('Hostage shot')
             gun_center.game_state = 'gameover'
+            gun_center.gameSong()
         else :
             hostageshot = False
         ####terror1 shot
@@ -70,9 +84,10 @@ def on_mouse_down(pos, button):
         else :
             terror2shot = False
         ####State
-        if gun_center.score > 5:
+        if gun_center.score > 10:
             gun_center.game_state = 'win'
-    
+            gun_center.gameSong()
+
 def update():
     if gun_center.game_state == 'play' : 
         hostage_Sprite.moving()
@@ -90,6 +105,7 @@ def draw():
             hostage_Sprite.pos =(random.randint(10, 790), 550) 
             terror1_Sprite.pos =(random.randint(10, 790), 550) 
             terror2_Sprite.pos =(random.randint(10, 790), 550) 
+            gun_center.gameSong()
 
     if gun_center.game_state == 'main' : #Main Screen
         screen.draw.text('Save Hostage' , center=(400, 200), color=(255, 255, 255), fontsize=100)

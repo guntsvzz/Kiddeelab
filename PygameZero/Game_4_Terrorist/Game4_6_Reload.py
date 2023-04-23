@@ -4,7 +4,11 @@ import random
 
 TITLE = 'Game 4 Terrorist'
 WIDTH, HEIGHT = 800, 600
-
+class Bullet(Actor):
+    def __init__(self, image_file, center = (650, 40)):
+        super().__init__(image_file, center)
+        self.center = center
+        
 class Person(Actor):
     def __init__(self, image_file, hostage = False, pos = (random.randint(10,790), 550)):
         super().__init__(image_file, pos)
@@ -33,6 +37,30 @@ class Gun(Actor):
         super().__init__(image_file)
         self.game_state = 'main'
         self.score = 0
+        self.amount = 6
+        self.magazines = 1
+        self.reload_timer = 3
+        self.is_reloading = False
+
+    def gameSong(self):
+        if self.game_state == 'win' :
+            sounds.win.play()
+            sounds.snarebeat.stop()
+        elif self.game_state == 'gameover' :
+            sounds.gameover.play()
+            sounds.snarebeat.stop()
+        elif self.game_state == 'play' :
+            sounds.snarebeat.play(-1)
+            sounds.gameover.stop()
+            sounds.win.stop()    
+
+    def checking_bullet(self):
+        if self.is_reloading:
+            while self.amount <= 5:
+                self.reload_timer -= 1/60
+                bullets.append(Bullet('bullet', center=(650 + self.amount*25, 40)))
+                self.amount += 1
+            self.is_reloading = False
 
 hostage_Sprite = Person('hostage', hostage=True)
 terror1_Sprite = Person('terror1')
@@ -40,17 +68,27 @@ terror2_Sprite = Person('terror2')
 
 gun_center = Gun('crosshair')
 
-def on_mouse_move(pos, rel, buttons):
-    gun_center.x = pos[0]
-    gun_center.y = pos[1]
- 
-def on_mouse_down(pos, button):
+bullets = []
+for idx in range(gun_center.amount):
+    bullets.append(
+        Bullet('bullet', center=(650+idx*25, 40))
+    )  
+
+def on_mouse_down(pos, button): 
+    print(gun_center.amount)
+    if len(bullets) > 0:
+        bullets.pop()
+        gun_center.amount -= 1
+    else:
+        gun_center.is_reloading = True
+
     if button == mouse.LEFT :
         #####hostage shot
         if hostage_Sprite.collidepoint(pos) :
             hostageshot = True
             print('Hostage shot')
             gun_center.game_state = 'gameover'
+            gun_center.gameSong()
         else :
             hostageshot = False
         ####terror1 shot
@@ -70,15 +108,21 @@ def on_mouse_down(pos, button):
         else :
             terror2shot = False
         ####State
-        if gun_center.score > 5:
+        if gun_center.score > 10:
             gun_center.game_state = 'win'
-    
+            gun_center.gameSong()
+
+def on_mouse_move(pos, rel, buttons):
+    gun_center.x = pos[0]
+    gun_center.y = pos[1]
+
 def update():
     if gun_center.game_state == 'play' : 
         hostage_Sprite.moving()
         terror1_Sprite.moving()
         terror2_Sprite.moving()
-
+        gun_center.checking_bullet()
+    
 def draw():
     screen.blit('background',(0,0))
     def restart() :
@@ -90,6 +134,7 @@ def draw():
             hostage_Sprite.pos =(random.randint(10, 790), 550) 
             terror1_Sprite.pos =(random.randint(10, 790), 550) 
             terror2_Sprite.pos =(random.randint(10, 790), 550) 
+            gun_center.gameSong()
 
     if gun_center.game_state == 'main' : #Main Screen
         screen.draw.text('Save Hostage' , center=(400, 200), color=(255, 255, 255), fontsize=100)
@@ -106,6 +151,9 @@ def draw():
         terror1_Sprite.draw()
         terror2_Sprite.draw()
         gun_center.draw()
+
+        for b in bullets:
+            b.draw()
 
     screen.blit('wall',(0,400)) #x, y shift 400 unit
 
