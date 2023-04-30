@@ -34,10 +34,17 @@ class Person(Actor):
                     self.timerise = self.rise[random.randint(0,4)]
                     self.timeout = self.out[random.randint(0,4)]
 
+class Gun(Actor):
+    def __init__(self, image_file):
+        super().__init__(image_file)
+        self.game_state = 'main'
+        self.score = 0
+
 hostage_Sprite = Person('hostage', hostage=True)
 terror1_Sprite = Person('terror1')
 terror2_Sprite = Person('terror2')
-gun_center = Actor('crosshair')
+
+gun_center = Gun('crosshair')
 
 def on_mouse_move(pos, rel, buttons):
     gun_center.x = pos[0]
