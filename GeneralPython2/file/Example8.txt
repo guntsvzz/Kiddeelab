@@ -1,4 +1,4 @@
 Name;Gender;Age
-Gun;Male;23
-Sea;Female;22
-Reef;Male;26
+Gun;m;23
+Sea;f;23
+Reef;m;26
