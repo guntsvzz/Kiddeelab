@@ -28,22 +28,22 @@ menu = {'Appetizers':[{'00':'GarlicBread'},
                      {'02':'Juiuce'},
                      {'03':'SodaPop'}]}
         
-Customer1_Appetizer = menu['Appetizers'][2]['02']
-Customer1_MainCourse = menu['MainCourse'][3]['03']
+Customer1_Appetizer = menu['_____________'][___]['____']
+Customer1_MainCourse = menu['_____________'][___]['____']
 Customer1_Side = menu['_____________'][___]['____']
 Customer1_Beverages = menu['_____________'][___]['____']
 
-Customer1 = [Customer1_Appetizer, Customer1_MainCourse, Customer1_Side,Customer1_Beverages]
+Customer1 = [_______________________________________________________]
 
 Customer2_Appetizer = menu['_____________'][___]['____']
 Customer2_Italian = menu['_____________'][___]['____']
 Customer2_Desserts = menu['_____________'][___]['____']
 Customer2_Beverages = menu['_____________'][___]['____']
 
-Customer2 = [Customer2_Appetizer, Customer2_Italian, Customer2_Desserts, Customer2_Beverages]
+Customer2 = [_______________________________________________________]
 
-print('Customer1 ordered ', Customer1)
-print('Customer2 ordered ', Customer2)
+print('Customer1 ordered ', __________)
+print('Customer2 ordered ', __________)
 
 
 

@@ -9,13 +9,21 @@ def thb_twd(thb):
 # print(thb_twd(1000))
 
 #7 UP
-for i in range(1,101):
-    if (i % 7 != 0) or (i % 10 != 7):
-        print(i)
-    else:
-        print('UP')
+# for i in range(1,101):
+#     if (i % 7 != 0) or (i % 10 != 7):
+#         print(i)
+#     else:
+#         print('UP')
 
-#True False
-T = True
-F = False
+# #True False
+# T = True
+# F = False
 
+Kiddeelab_staff = {
+    'ant' : 'small animal',
+    'orange' : 'tropical fruit',
+    'cat' : 'pet',
+    'gun' : 'pistol'
+} 
+
+print(Kiddeelab_staff['ant'])
