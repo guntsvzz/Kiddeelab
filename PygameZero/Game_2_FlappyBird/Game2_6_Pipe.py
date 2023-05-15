@@ -11,17 +11,17 @@ class Pipe:
         self.x = x
         self.height = random.randint(100, 500)
         self.bottom_y = self.height + PIPE_GAP
-        self.top_pipe = Actor('pipetop', pos=(self.x, self.bottom_y), anchor=('left', 'top'))
-        self.bottom_pipe = Actor('pipebottom', pos=(self.x, self.height), anchor=('left', 'bottom'))
+        self.bottom_pipe = Actor('pipebottom', pos=(self.x, self.bottom_y), anchor=('left', 'top'))
+        self.top_pipe = Actor('pipetop', pos=(self.x, self.height), anchor=('left', 'bottom'))
         self.scored = False
 
     def move(self):
         self.x += PIPE_VELOCITY
-        self.bottom_pipe.x += PIPE_VELOCITY
         self.top_pipe.x += PIPE_VELOCITY
+        self.bottom_pipe.x += PIPE_VELOCITY
     
     def off_screen(self):
-        return self.bottom_pipe.x < 0 and self.top_pipe.x < 0
+        return self.top_pipe.x < 0 and self.bottom_pipe.x < 0
     
 class Bird(Actor):
 
@@ -52,15 +52,18 @@ class Bird(Actor):
     
     def collide(self, pipe):
         if self.colliderect(pipe.bottom_pipe) or self.colliderect(pipe.top_pipe):
-            if self.x > pipe.x and not pipe.scored:
-                self.score += 1
-                pipe.scored = True
             return True
-        return False
+        
+    def score_up(self,pipe):
+        if self.x > pipe.x and not pipe.scored:
+            self.score += 1
+            pipe.scored = True
+            if self.score >= 30:
+                self.game_state = 'win'
     
-pipes = [Pipe(x) for x in range(WIDTH, WIDTH+500, 200)]
+pipes = [Pipe(x) for x in range(WIDTH, WIDTH+800, 300)]
 
-birdSprite = Bird('bird1', pos=(150, HEIGHT//2))
+birdSprite = Bird('bird1', pos=(200, HEIGHT//2))
 
 def update():
     if birdSprite.game_state == 'play':
@@ -71,13 +74,18 @@ def update():
             
             if pipe.off_screen():
                 pipes.remove(pipe)
-                pipes.append(Pipe(pipes[-1].x + 200))
+                pipes.append(Pipe(pipes[-1].x + 300))
                 
             if birdSprite.collide(pipe):
                 print('Collision detected!')
-            
+                birdSprite.game_state ='lose'
+
+            birdSprite.score_up(pipe)
+
         if birdSprite.off_screen():
             print('Bird off screen!')
+            birdSprite.game_state ='lose'
+
         
 def on_key_down(key):
     if key == key.UP and birdSprite.status == True:
@@ -85,11 +93,14 @@ def on_key_down(key):
 
 def draw():
     def reset():
+        global pipes
         screen.draw.text('Press space to restart',center = (WIDTH/2, HEIGHT/2+50), color = (255,0,0), fontsize = 40)
         if keyboard.space:
             birdSprite.game_state = 'play'
             birdSprite.status = True
-            birdSprite.pos = 150, HEIGHT//2
+            birdSprite.pos = 200, HEIGHT//2
+            pipes.clear()
+            pipes = [Pipe(x) for x in range(WIDTH, WIDTH+800, 300)]
             print(f'Game Status : {birdSprite.game_state}')
 
     screen.blit('background',(0,0))
@@ -113,9 +124,8 @@ def draw():
     elif birdSprite.game_state == 'play':
         birdSprite.draw()
         for pipe in pipes:
-            pipe.bottom_pipe.draw()
             pipe.top_pipe.draw()
-            
+            pipe.bottom_pipe.draw()
         screen.draw.text(f'{birdSprite.score}', center = (WIDTH/2, HEIGHT/2), color="white", fontsize = 60)
         
 pgzrun.go()
