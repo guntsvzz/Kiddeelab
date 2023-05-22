@@ -30,3 +30,4 @@ def draw():
       dynamiteSprite.draw()
       
 pgzrun.go()
+
