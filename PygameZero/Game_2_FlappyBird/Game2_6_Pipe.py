@@ -54,7 +54,7 @@ class Bird(Actor):
         if self.colliderect(pipe.bottom_pipe) or self.colliderect(pipe.top_pipe):
             return True
         
-    def score_up(self,pipe):
+    def score_up(self, pipe):
         if self.x > pipe.x and not pipe.scored:
             self.score += 1
             pipe.scored = True
