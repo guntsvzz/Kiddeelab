@@ -1,6 +1,6 @@
 import pgzrun
 import random
-import math
+import maths
 
 TITLE = 'Shoot some racist guys'
 WIDTH, HEIGHT = 800, 600
