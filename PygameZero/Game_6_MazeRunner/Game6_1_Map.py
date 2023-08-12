@@ -1,51 +1,60 @@
 import pgzrun
 import random
-tiles = {
+
+TILE = {
     0 : 'path',
     1 : 'wall'
 }
-maze = [
-    #0  1  2  3  4  5  6  7  8  9  10 11 12
-    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], #0
-    [1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1], #1
-    [1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1], #2
-    [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1], #3
-    [1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 1, 1], #4
-    [1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1], #5
-    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1], #6
-    [1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1], #7
-    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], #8
-    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]  #9
-]
-number_column = len(maze[0]) 
-number_row    = len(maze)
+# print(tiles[0],tiles[1])
+# MAZE = [A, B, C, D, E, F]
+MAZE = [
+    #0 1 2 3 4 5 6 7
+    [1,1,1,1,1,1,1,1], #0
+    [1,0,0,0,1,1,0,1], #1
+    [1,0,1,0,0,0,0,1], #2
+    [1,0,0,1,0,0,0,1], #3
+    [1,1,0,1,1,1,0,1], #4
+    [1,0,0,0,1,1,0,1], #5
+    [1,0,1,1,0,1,0,1], #6
+    [1,0,1,0,0,0,0,1], #7
+] #8 rows, 6 columns
+
+number_column = len(MAZE[0]) #changable
+number_row = len(MAZE) #changable
+
 TILE_SIZE = 70
-WIDTH  = TILE_SIZE * number_column
+WIDTH = TILE_SIZE * number_column
 HEIGHT = TILE_SIZE * number_row
 
-class Map:
-    def __init__(self, tile_size, num_row, num_column):
+#class : map, player, enemy
+class Map: #screen.blit
+    def __init__(self, tile_size, num_row, num_column, maze,tile):
         self.tile_size = tile_size
-        self.num_row =  num_row
+        self.num_row = num_row
         self.num_column = num_column
+        self.maze = maze
+        self.tile = tile
 
-    def generate(self):
-        for row in range(self.num_row):
+    def generate(self): #generating a map 
+        for row in range(self.num_row): 
             for column in range(self.num_column):
-                x = column * self.tile_size 
-                y = row * self.tile_size
-                screen.blit('path', (x,y))
-                material = maze[row][column]
-                tile = tiles[material]
-                if tile != 'path':
-                    screen.blit(tile, (x,y))
+                #drawing path
+                # print(row, column)
+                x = self.tile_size * column
+                y = self.tile_size * row
+                screen.blit('path',(x,y))
+                #drawing walls
+                material = self.maze[row][column]
+                t = self.tile[material]
+                if t == 'wall':
+                    screen.blit(t,(x,y))
 
-map = Map(TILE_SIZE, number_row,number_column)
-
-def draw():
-    map.generate()
+maps = Map(TILE_SIZE, number_row, number_column, MAZE, TILE)
 
 def update():
     pass
+
+def draw():
+    maps.generate()
 
 pgzrun.go()
