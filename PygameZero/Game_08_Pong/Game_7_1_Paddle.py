@@ -22,6 +22,14 @@ class Paddle(Rect):
     def __init__(self, start_x, start_y):
         super().__init__(start_x, start_y, PADDLE_WIDTH, PADDLE_HEIGHT)
 
+    def up(self):
+        if self.y - 5 > 40:
+            self.y -= 5
+
+    def down(self):
+        if self.y + self.height + 5 < HEIGHT - 40:
+            self.y += 5
+
     def draw(self):
         screen.draw.filled_rect(self, MAIN_COLOR)
 
@@ -38,7 +46,6 @@ class TennisBall():
         screen.draw.filled_circle(self.pos, TENNIS_BALL_RADIUS, MAIN_COLOR)
 
 class Game():
-
     def __init__(self, player):
         self.active_player = player
         self.score_left = 0
@@ -107,6 +114,9 @@ def draw():
     game.draw()
 
 def update():
-    pass
+    if keyboard.up:
+        game.right_paddle.up()
+    elif keyboard.down:
+        game.right_paddle.down()
 
 pgzrun.go()

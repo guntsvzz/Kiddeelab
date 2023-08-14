@@ -75,11 +75,17 @@ class Player(Actor):
         self.pos = pos
         self.game_state = 'main'
 
+    def collision(self, enemy):
+        if enemy.colliderect(self):
+            print("You died")
+            self.game_state = 'lose'
+
 class Enemy(Actor):
     def __init__(self, image_file, anchor = (-10,-10), pos = (1*TILE_SIZE,1*TILE_SIZE)):
         super().__init__(image_file, anchor, pos)
         self.anchor = anchor
         self.pos = pos
+
 
 maps = Map(TILE_SIZE, number_row, number_column, MAIN, TILE)
 player = Player('grassblock')
