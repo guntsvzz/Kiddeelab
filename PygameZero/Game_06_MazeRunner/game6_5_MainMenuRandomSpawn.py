@@ -1,8 +1,8 @@
+import os
+os.environ['SDL_VIDEO_WINDOW_POS'] = '%d, %d' % (500, 200) #x,y
 import pgzrun
 import random
 from pattern_mazes import *
-
-button_pressed = 0
 
 TILE = {
     0 : 'path',
@@ -36,6 +36,7 @@ number_row = len(MAIN[0]) #len(MAZE) #changable
 TILE_SIZE = 70
 WIDTH = TILE_SIZE * number_column
 HEIGHT = TILE_SIZE * number_row
+TITLE = 'random game with grass box'
 
 #Define the button properties
 BUTTON_WIDTH = 200
@@ -54,6 +55,7 @@ class Map: #screen.blit
         self.MAIN = MAIN
         self.tile = tile
         self.room = 0
+
     def generate(self): #generating a map 
         for row in range(self.num_row): 
             for column in range(self.num_column):
@@ -75,21 +77,37 @@ class Player(Actor):
         self.pos = pos
         self.game_state = 'main'
 
-    def collision(self, enemy):
-        if enemy.colliderect(self):
-            print("You died")
-            self.game_state = 'lose'
-
 class Enemy(Actor):
-    def __init__(self, image_file, anchor = (-10,-10), pos = (1*TILE_SIZE,1*TILE_SIZE)):
-        super().__init__(image_file, anchor, pos)
+    def __init__(self, image_file, room, anchor = (-10,-10)):
+        super().__init__(image_file, anchor)
         self.anchor = anchor
-        self.pos = pos
+        self.room = room
+        self.main = MAIN
+        self.p1, self.p2 = self.random_spawn()
+        self.pos = (self.p1*TILE_SIZE,self.p2*TILE_SIZE)
+
+    def random_spawn(self):
+        rooms = self.main[self.room]
+        coordinates = []
+        for x in range(len(rooms)):
+            for y in range(len(rooms[0])):
+                if rooms[x][y] == 0:
+                    coordinates.append((x,y))
+
+        return random.choice(coordinates) #(x,y)
+
+
+    def move(self):
+        if player.game_state == 'play':
+            row = int(self.y/TILE_SIZE) #0,1,2,3,4,6,
+            column = int(self.x/TILE_SIZE) #1,2,3,4,5,6,7,8
 
 
 maps = Map(TILE_SIZE, number_row, number_column, MAIN, TILE)
 player = Player('grassblock')
-enemy = Enemy('blockermad')
+
+enemy1 = Enemy('blockermad', room = 0)
+enemy2 = Enemy('blockermad', room = 1)
 keys = []
 
 def button_click(button_pressed):
@@ -101,6 +119,8 @@ def button_click(button_pressed):
         pgzrun.quit()
     elif button_pressed == 3:
         player.game_state = 'main'
+
+button_pressed = 0
 
 def on_key_down(key): #for toggle keyboard
     global MAIN, keys, maps, button_pressed
@@ -167,27 +187,26 @@ def on_key_down(key): #for toggle keyboard
 
     elif player.game_state == 'main':
         if key == key.UP:
-            button_pressed -= 1
+            button_pressed -= 2
             if button_pressed < 0:
                 button_pressed = 0
         elif key == key.DOWN:
-            button_pressed +=2 
+            button_pressed += 2
             if button_pressed > 2:
                 button_pressed = 2
         elif key == key.RETURN:
-            print('ENTER')
+            print('enter')
             button_click(button_pressed)
 
-    elif player.game_state in ['win','lose']: #gun_center.game_state == 'win' or gun_center.game_state == 'lose'
+    elif player.game_state in ['win','lose']:
         if key == key.UP:
-            button_pressed = 0 
+            button_pressed = 0 #main menu
         elif key == key.DOWN:
-            button_pressed = 3
+            button_pressed = 3 #restart the game
         elif key == key.RETURN:
-            print('ENTER')
+            print('enter')
             button_click(button_pressed)
-            button_pressed = 0 #default 
-        print(button_pressed)
+            button_pressed = 0 #seting as default again
 
 def nextRoom(x, y):
     global WIDTH, HEIGHT, maps
@@ -249,7 +268,8 @@ def nextRoom(x, y):
 def update():
     pass
 
-def restart():
+def restart(): #win,lose
+    keys.clear() #remove all keys
     #button1
     if button_pressed == 0:
         screen.draw.filled_rect(Rect((BUTTON_X, BUTTON_Y2),(BUTTON_WIDTH, BUTTON_HEIGHT)), 'white') #filled_rect( Rect((x,y),(w,h)) , color )
@@ -257,7 +277,6 @@ def restart():
     else:
         screen.draw.filled_rect(Rect((BUTTON_X, BUTTON_Y2),(BUTTON_WIDTH, BUTTON_HEIGHT)), 'white') #filled_rect( Rect((x,y),(w,h)) , color )
         screen.draw.text('Restart', center = (BUTTON_X + BUTTON_WIDTH/2, BUTTON_Y2 + BUTTON_HEIGHT/2), color = 'black', fontsize = 60)
-    
     #button2
     if button_pressed == 3:
         screen.draw.filled_rect(Rect((BUTTON_X, BUTTON_Y3),(BUTTON_WIDTH, BUTTON_HEIGHT)), 'white') #filled_rect( Rect((x,y),(w,h)) , color )
@@ -267,33 +286,37 @@ def restart():
         screen.draw.text('Main', center = (BUTTON_X + BUTTON_WIDTH/2, BUTTON_Y3 + BUTTON_HEIGHT/2), color = 'black', fontsize = 60)
     
 
+def main(): #main
+    #button1
+    if button_pressed == 0:
+        screen.draw.filled_rect(Rect((BUTTON_X, BUTTON_Y1),(BUTTON_WIDTH, BUTTON_HEIGHT)), 'white') #filled_rect( Rect((x,y),(w,h)) , color )
+        screen.draw.text('Start', center = (BUTTON_X + BUTTON_WIDTH/2, BUTTON_Y1 + BUTTON_HEIGHT/2), color = 'red', fontsize = 60)
+    else:
+        screen.draw.filled_rect(Rect((BUTTON_X, BUTTON_Y1),(BUTTON_WIDTH, BUTTON_HEIGHT)), 'white') #filled_rect( Rect((x,y),(w,h)) , color )
+        screen.draw.text('Start', center = (BUTTON_X + BUTTON_WIDTH/2, BUTTON_Y1 + BUTTON_HEIGHT/2), color = 'black', fontsize = 60)
+    #button2
+    if button_pressed == 2:
+        screen.draw.filled_rect(Rect((BUTTON_X, BUTTON_Y2),(BUTTON_WIDTH, BUTTON_HEIGHT)), 'white') #filled_rect( Rect((x,y),(w,h)) , color )
+        screen.draw.text('Exit', center = (BUTTON_X + BUTTON_WIDTH/2, BUTTON_Y2 + BUTTON_HEIGHT/2), color = 'red', fontsize = 60)
+    else:
+        screen.draw.filled_rect(Rect((BUTTON_X, BUTTON_Y2),(BUTTON_WIDTH, BUTTON_HEIGHT)), 'white') #filled_rect( Rect((x,y),(w,h)) , color )
+        screen.draw.text('Exit', center = (BUTTON_X + BUTTON_WIDTH/2, BUTTON_Y2 + BUTTON_HEIGHT/2), color = 'black', fontsize = 60)
+    
+
 def draw():
     maps.generate()
     if player.game_state == 'main':
-        screen.draw.text('Maze Runner', center = (WIDTH/2, HEIGHT/2 - 150), fontsize = 100)
-        #button1
-        if button_pressed == 0:
-            screen.draw.filled_rect(Rect((BUTTON_X, BUTTON_Y1),(BUTTON_WIDTH, BUTTON_HEIGHT)), 'white') #filled_rect( Rect((x,y),(w,h)) , color )
-            screen.draw.text('Start', center = (BUTTON_X + BUTTON_WIDTH/2, BUTTON_Y1 + BUTTON_HEIGHT/2), color = 'red', fontsize = 60)
-        else:
-            screen.draw.filled_rect(Rect((BUTTON_X, BUTTON_Y1),(BUTTON_WIDTH, BUTTON_HEIGHT)), 'white') #filled_rect( Rect((x,y),(w,h)) , color )
-            screen.draw.text('Start', center = (BUTTON_X + BUTTON_WIDTH/2, BUTTON_Y1 + BUTTON_HEIGHT/2), color = 'black', fontsize = 60)
-        #button2
-        if button_pressed == 2:
-            screen.draw.filled_rect(Rect((BUTTON_X, BUTTON_Y2),(BUTTON_WIDTH, BUTTON_HEIGHT)), 'white') #filled_rect( Rect((x,y),(w,h)) , color )
-            screen.draw.text('Exit', center = (BUTTON_X + BUTTON_WIDTH/2, BUTTON_Y2 + BUTTON_HEIGHT/2), color = 'red', fontsize = 60)
-        else:
-            screen.draw.filled_rect(Rect((BUTTON_X, BUTTON_Y2),(BUTTON_WIDTH, BUTTON_HEIGHT)), 'white') #filled_rect( Rect((x,y),(w,h)) , color )
-            screen.draw.text('Exit', center = (BUTTON_X + BUTTON_WIDTH/2, BUTTON_Y2 + BUTTON_HEIGHT/2), color = 'black', fontsize = 60)
-        
+        screen.draw.text('Random Game with\nThe grass box',center = (WIDTH/2, HEIGHT/2-150), fontsize = 80)
+        main()
     elif player.game_state == 'win':
-        screen.draw.text('You WIN',center = (WIDTH/2, HEIGHT/2-100), fontsize = 100)
+        screen.draw.text('You WIN',center = (WIDTH/2, HEIGHT/2-100), fontsize = 80)
         restart()
     elif player.game_state == 'lose':
-        screen.draw.text('You WIN',center = (WIDTH/2, HEIGHT/2-100), fontsize = 100)
+        screen.draw.text('You LOSE',center = (WIDTH/2, HEIGHT/2-100), fontsize = 80)
         restart()
     elif player.game_state == 'play':
         player.draw()
-        enemy.draw()
+        enemy1.draw()
+        enemy2.draw()
 
 pgzrun.go()
