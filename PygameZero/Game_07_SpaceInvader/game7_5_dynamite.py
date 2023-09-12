@@ -11,22 +11,6 @@ class Enemy(Actor):
     def __init__(self,image_file, pos):
         super().__init__(image_file, pos)
 
-def generating_enemies():
-    enemies = []
-    if player.level == 1:
-        for row in range(0,3):
-            for column in range(0,5):
-                x = 40 + 80 * column
-                y = 50 + 60 * row
-                enemies.append(Enemy('bug', (x, y)))
-        return enemies
-    elif player.level == 2:
-        pass
-    elif player.level == 3:
-        pass
-
-enemies = generating_enemies() #generate 15 enemies
-
 class Player(Actor):
     def __init__(self,image_file):
         super().__init__(image_file)
@@ -85,8 +69,30 @@ class Bullet(Actor):
     def __init__(self,image_file):
         super().__init__(image_file)
 
+class Dynamite(Actor):
+    def __init__(self,image_file):
+        super().__init__(image_file)
+
 bullets = []
 player = Player('galaga')
+
+def generating_enemies():
+    enemies = []
+    if player.level == 1:
+        for row in range(0,3):
+            for column in range(0,5):
+                x = 40 + 80 * column
+                y = 50 + 60 * row
+                enemies.append(Enemy('bug', (x, y)))
+        return enemies
+    elif player.level == 2:
+        pass
+    elif player.level == 3:
+        pass
+
+enemies = generating_enemies() #generate 15 enemies
+dynamites = []
+
 
 def on_key_down(key):
     if key == key.SPACE and player.shoot() and player.game_state == 'play' and timer < 0:
@@ -95,7 +101,7 @@ def on_key_down(key):
         bullets.append(Bullet('laserred'))
         bullets[-1].pos = player.pos
         player.bullets -= 1 
-
+        
 def draw_bullet():
     for b in bullets:
         b.draw()
@@ -121,6 +127,23 @@ def draw_bug():
     for bug in enemies:
         bug.draw()
 
+def draw_dynamite():
+    for d in dynamites:
+        d.draw()
+
+def update_dynamite():
+    for d in dynamites:
+        if d.y <= 0:
+            bullets.remove(d)
+        else:
+            d.y -= 10
+
+        if d.colliderect(player):
+            player.hp -= 1
+
+            if player.hp <= 0:
+                player.game_state = 'lose' 
+            
 touch_wall = False
 direction  = -1 
 
@@ -133,9 +156,16 @@ def update_bug():
             touch_wall = True
         if touch_wall:
             bug.y += 10
+        
+        #touching player
         if bug.colliderect(player): #touching player
             player.game_state = 'lose'  
             music.play_once('gameover')
+        #shooting dynamite
+        chance = random.random()*100
+        if chance > 50:
+            dynamites.append(Dynamite('dynamite'))
+
     touch_wall = False
 
     if len(enemies) == 0:
@@ -161,6 +191,7 @@ def update(dt):
             player.reload(dt)
             update_bullet()
             update_bug()
+            update_dynamite()
 
 def draw_countingdown(timer): 
     if 1 <= timer <= 3: #during 3-2-1
@@ -200,8 +231,9 @@ def draw():
         screen.draw.text(f'Bullets : {player.bullets}', pos = (340,20) , fontsize = 40)
         draw_countingdown(timer)
         player.draw()
+        draw_dynamite()
         draw_bullet()
         draw_bug()
     
-music.play('run')
+# music.play('run')
 pgzrun.go()
