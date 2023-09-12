@@ -163,7 +163,8 @@ def update_bug():
             music.play_once('gameover')
         #shooting dynamite
         chance = random.random()*100
-        if chance > 50:
+        if chance > 95:
+            print('Enemy Shoot')
             dynamites.append(Dynamite('dynamite'))
 
     touch_wall = False
@@ -191,7 +192,7 @@ def update(dt):
             player.reload(dt)
             update_bullet()
             update_bug()
-            update_dynamite()
+            # update_dynamite()
 
 def draw_countingdown(timer): 
     if 1 <= timer <= 3: #during 3-2-1
