@@ -70,9 +70,10 @@ class Bullet(Actor):
         super().__init__(image_file)
 
 class Dynamite(Actor):
-    def __init__(self,image_file):
-        super().__init__(image_file)
+    def __init__(self,image_file, pos):
+        super().__init__(image_file, pos)
 
+dynamites = []
 bullets = []
 player = Player('galaga')
 
@@ -91,8 +92,6 @@ def generating_enemies():
         pass
 
 enemies = generating_enemies() #generate 15 enemies
-dynamites = []
-
 
 def on_key_down(key):
     if key == key.SPACE and player.shoot() and player.game_state == 'play' and timer < 0:
@@ -101,7 +100,7 @@ def on_key_down(key):
         bullets.append(Bullet('laserred'))
         bullets[-1].pos = player.pos
         player.bullets -= 1 
-        
+
 def draw_bullet():
     for b in bullets:
         b.draw()
@@ -127,23 +126,6 @@ def draw_bug():
     for bug in enemies:
         bug.draw()
 
-def draw_dynamite():
-    for d in dynamites:
-        d.draw()
-
-def update_dynamite():
-    for d in dynamites:
-        if d.y <= 0:
-            bullets.remove(d)
-        else:
-            d.y -= 10
-
-        if d.colliderect(player):
-            player.hp -= 1
-
-            if player.hp <= 0:
-                player.game_state = 'lose' 
-            
 touch_wall = False
 direction  = -1 
 
@@ -156,16 +138,13 @@ def update_bug():
             touch_wall = True
         if touch_wall:
             bug.y += 10
-        
-        #touching player
         if bug.colliderect(player): #touching player
             player.game_state = 'lose'  
             music.play_once('gameover')
-        #shooting dynamite
-        chance = random.random()*100
-        if chance > 95:
-            print('Enemy Shoot')
-            dynamites.append(Dynamite('dynamite'))
+
+        chance = round(random.random())*100 #0-1
+        if chance == 90:
+            dynamites.append(Dynamite('dynamite', pos = bug.pos))
 
     touch_wall = False
 
@@ -181,6 +160,24 @@ def update_bug():
 timer_start = 3
 timer = timer_start
 
+def draw_dynamite():
+    for d in dynamites:
+        d.draw()
+
+def update_dynamite():
+    for d in dynamites:
+        if d.y >= HEIGHT:
+            dynamites.remove(d)
+        else:
+            d.y += 10
+
+        if d.colliderect(player):
+            player.hp -= 3
+            dynamites.remove(d)
+            if player.hp <= 0:
+                player.game_state = 'lose'
+
+    
 def update(dt):
     global timer, timer_start
     if player.game_state == 'play':
@@ -192,7 +189,7 @@ def update(dt):
             player.reload(dt)
             update_bullet()
             update_bug()
-            # update_dynamite()
+            update_dynamite()
 
 def draw_countingdown(timer): 
     if 1 <= timer <= 3: #during 3-2-1
@@ -224,7 +221,7 @@ def draw():
         screen.draw.text('Press Enter to start',center = (WIDTH/2, HEIGHT/2), fontsize = 50)
         restart()
     elif player.game_state == 'lose':
-        screen.draw.text('You WIN',center = (WIDTH/2, HEIGHT/2-100), fontsize = 80)
+        screen.draw.text('You LOSE',center = (WIDTH/2, HEIGHT/2-100), fontsize = 80)
         screen.draw.text('Press Enter to start',center = (WIDTH/2, HEIGHT/2), fontsize = 50)
         restart()
     elif player.game_state == 'play':
@@ -232,9 +229,10 @@ def draw():
         screen.draw.text(f'Bullets : {player.bullets}', pos = (340,20) , fontsize = 40)
         draw_countingdown(timer)
         player.draw()
-        draw_dynamite()
         draw_bullet()
         draw_bug()
+        draw_dynamite()
+        
     
 # music.play('run')
 pgzrun.go()
