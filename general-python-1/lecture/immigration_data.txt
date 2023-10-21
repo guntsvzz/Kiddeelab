@@ -1,0 +1,1001 @@
+Full Name;Passport Number;Date of Birth;Nationality;Visa Type;Arrival Date;Departure Date;Immigration Status
+Joshua Allen;710308912;1961-07-15;Korea;Tourist;2012-06-14;2001-05-06;Expired
+Julian Gregory;548681454;1968-08-18;Uzbekistan;Diplomatic;2021-11-19;2017-09-28;Expired
+Jessica Guzman;382552715;1952-11-21;Ireland;Tourist;2009-04-18;2010-04-14;Expired
+Scott Mccarthy;892034665;1999-12-07;Guernsey;Diplomatic;2019-07-04;2020-04-21;Pending
+Ryan Howard;936811248;1960-08-21;Czech Republic;Diplomatic;2003-11-26;2001-09-03;Pending
+Theresa Ortega;315868964;1984-09-14;Grenada;Tourist;2007-06-25;2007-03-04;Valid
+Gina Dickson;410230958;1992-07-13;Greece;Tourist;2022-08-29;2014-04-17;Valid
+Alison Thornton;307997922;1977-09-06;Saint Vincent and the Grenadines;Tourist;2006-03-23;2021-01-10;Valid
+Carolyn Ingram;283997638;1981-10-14;Estonia;Student;2010-08-13;2023-07-24;Valid
+Jennifer Shannon;306369589;1974-08-09;Anguilla;Work;2007-05-14;2008-03-31;Pending
+John Braun;524092806;1983-01-10;Antigua and Barbuda;Tourist;2005-10-18;2009-01-29;Valid
+Ms. Andrea Curtis DDS;332777605;1955-05-30;Malta;Diplomatic;2010-06-26;2019-12-09;Valid
+Christopher Sherman;621753706;1977-05-26;Bulgaria;Student;2003-03-29;2009-02-17;Valid
+Michael Foster;690410517;1985-05-07;Palau;Student;2006-09-13;2008-02-20;Pending
+James Walker;54610611;2003-12-15;Equatorial Guinea;Work;2018-01-07;2011-10-10;Valid
+Kevin Reynolds;442194607;1971-03-22;Spain;Work;2021-03-26;2008-07-21;Expired
+Amanda Smith;40900518;1972-05-20;Azerbaijan;Student;2002-01-19;2007-08-25;Pending
+Eric Shaw;732839056;2004-02-06;Sri Lanka;Work;2010-01-28;2006-10-11;Expired
+Joyce Bryant;789459280;1984-04-23;Australia;Diplomatic;2004-09-24;2011-11-01;Expired
+Benjamin Garcia;782814063;1965-04-30;Argentina;Work;2017-04-06;2009-02-07;Valid
+Alan Wade;268805344;1975-03-31;Gabon;Work;2008-11-10;2007-05-02;Valid
+Diane Ramirez;424758551;1961-11-30;Liberia;Student;2007-03-15;2007-03-05;Pending
+Jeffrey Evans;423547936;1953-06-18;Bhutan;Student;2015-04-11;2013-04-03;Expired
+Richard Lee;48485942;1978-10-31;Western Sahara;Diplomatic;2014-01-09;2007-02-13;Pending
+Richard Austin;765695122;1985-09-18;French Southern Territories;Student;2006-11-30;2013-01-13;Expired
+Donald Carpenter;502568908;1966-07-30;Turkmenistan;Student;2022-05-04;2012-07-13;Pending
+Amanda Gonzalez;428348670;1998-05-12;Belize;Diplomatic;2016-01-13;2010-07-24;Expired
+Gabriella Sullivan MD;53224671;1976-10-26;Reunion;Tourist;2023-07-02;2017-04-06;Pending
+Omar Robertson;89237266;1990-10-01;Bhutan;Diplomatic;2013-01-01;2017-04-18;Pending
+Marisa Daniels;486434566;1966-12-02;Canada;Tourist;2001-03-01;2019-08-08;Expired
+Amanda Garrett;500820587;1963-12-29;Finland;Work;2008-10-10;2012-03-02;Valid
+Nicholas Brown;482698742;1956-07-06;Gabon;Student;2007-04-19;2006-09-10;Expired
+Natalie Herring;404494754;1959-08-01;Korea;Diplomatic;2013-06-07;2018-11-25;Expired
+Brandon Martinez;625311001;1987-12-13;Bosnia and Herzegovina;Work;2016-04-04;2013-03-20;Pending
+Duane Willis;327421610;1988-03-23;Saint Kitts and Nevis;Tourist;2019-10-07;2007-07-26;Valid
+Christopher Holden;30475591;1953-03-12;Tajikistan;Student;2005-06-19;2021-10-01;Expired
+Billy Schmitt;617760577;1981-05-13;Guinea-Bissau;Diplomatic;2020-10-24;2000-10-27;Valid
+Raymond Miles;411405650;2005-10-05;Antarctica (the territory South of 60 deg S);Student;2011-04-30;2013-09-18;Valid
+Aaron Valdez;68494799;1983-12-14;Guatemala;Work;2013-03-10;2016-05-06;Expired
+Cheyenne Davis;929876014;1998-10-12;Tajikistan;Work;2007-12-07;2000-09-03;Valid
+Zachary Kaiser;52548121;1988-02-05;Spain;Diplomatic;2005-05-28;2015-08-04;Pending
+Jerry Williams;942347912;1989-06-30;Lesotho;Work;2011-10-07;2021-11-17;Expired
+Mary Fisher;374583369;1993-05-08;Micronesia;Diplomatic;2013-03-26;2014-02-15;Valid
+Thomas Cooper;522718269;1958-01-03;Argentina;Diplomatic;2022-11-08;2018-11-26;Pending
+Carrie Mcfarland;856851473;1983-05-31;Rwanda;Tourist;2016-12-25;2017-08-16;Expired
+Matthew Padilla;992798981;1960-08-20;Venezuela;Diplomatic;2013-06-19;2002-07-11;Expired
+Michelle Mendoza;967471559;1953-01-05;Ethiopia;Student;2003-07-22;2015-11-16;Valid
+Jennifer Murphy;319999625;2004-07-14;Congo;Student;2000-02-18;2016-01-08;Pending
+Vickie Brady;852910604;1993-02-12;Bosnia and Herzegovina;Student;2018-01-29;2018-09-08;Valid
+Melissa Black;843231140;1981-07-27;Turkmenistan;Work;2004-07-30;2014-02-09;Pending
+Kevin Allen;510492361;1969-06-12;Zimbabwe;Diplomatic;2017-12-31;2009-03-14;Expired
+Sarah Martin;674094685;1955-06-10;Algeria;Work;2013-05-01;2011-01-31;Pending
+Joseph Massey;13559080;1964-09-04;Ukraine;Diplomatic;2007-10-31;2017-05-02;Pending
+Thomas Jordan;630264053;1967-03-27;Italy;Tourist;2006-10-27;2018-06-05;Pending
+Samuel Perkins;794664957;1998-01-11;United States of America;Diplomatic;2010-11-13;2022-01-08;Valid
+Chris Stewart;352711659;1955-02-08;Saint Kitts and Nevis;Tourist;2001-04-23;2013-09-09;Pending
+Corey Walker;370235794;1971-04-18;Costa Rica;Tourist;2023-03-05;2023-02-21;Pending
+Allison Christensen;92052257;1981-01-18;Burkina Faso;Work;2023-06-07;2000-10-31;Expired
+Michelle Brown;230954006;1976-10-02;Bhutan;Work;2021-04-13;2023-03-02;Valid
+Sherry Rodriguez;36211189;1993-11-26;Timor-Leste;Diplomatic;2023-10-15;2000-04-03;Pending
+Kyle Bowers;773919784;1987-08-24;Slovenia;Tourist;2000-06-12;2019-01-27;Pending
+Rebecca Medina;141244747;1964-07-31;Georgia;Work;2011-04-12;2001-10-11;Expired
+David Walton;283753907;1970-10-05;Gabon;Diplomatic;2018-06-30;2004-06-18;Valid
+Wendy Harris;470801343;1965-03-06;Faroe Islands;Diplomatic;2007-06-17;2001-05-29;Valid
+Phyllis Wells;122874597;1995-01-24;Guyana;Student;2011-08-18;2017-12-06;Pending
+Lisa Mcclain;599226929;1964-04-25;Canada;Work;2013-09-07;2005-07-19;Pending
+Jeff Nichols;523989989;1965-12-21;Serbia;Student;2007-01-02;2005-04-13;Pending
+Donna Medina;497079464;1984-03-14;Denmark;Diplomatic;2009-05-11;2016-01-22;Valid
+Nathaniel Tucker;762791987;1968-07-20;Congo;Diplomatic;2011-01-10;2005-12-03;Pending
+Christie Jackson;900796260;1999-03-31;Kazakhstan;Work;2023-05-24;2004-07-18;Valid
+Megan Jimenez;822928329;1979-06-26;Senegal;Student;2010-02-25;2013-04-12;Expired
+Sheila Harmon;762577486;2005-07-30;Russian Federation;Diplomatic;2009-06-13;2002-05-14;Expired
+Loretta Lopez;313462150;2004-05-10;British Virgin Islands;Work;2022-01-19;2021-06-25;Valid
+Gina Miller;519450489;2000-03-11;Dominican Republic;Diplomatic;2011-02-15;2002-02-28;Expired
+Jennifer Douglas;205636499;2001-07-31;Costa Rica;Tourist;2015-11-26;2008-05-16;Pending
+Ryan Malone;874445119;2002-10-04;Ukraine;Student;2010-10-15;2004-12-13;Expired
+Crystal Wood;799542813;1991-11-01;Holy See (Vatican City State);Student;2003-06-01;2002-02-01;Expired
+Brett Mcclure;849474579;1955-03-17;Botswana;Student;2003-02-13;2005-06-07;Expired
+Juan Moore;632024448;1979-02-07;Fiji;Student;2012-03-29;2012-01-18;Expired
+Becky Munoz;765234190;1966-10-27;Guernsey;Student;2016-05-09;2012-03-11;Expired
+Joshua Oliver;12577692;1953-07-21;French Guiana;Tourist;2013-08-11;2017-11-16;Pending
+Anthony Scott;247073033;1963-03-07;Serbia;Work;2014-05-19;2005-06-09;Valid
+Mary Barnes;494226816;1961-05-04;Benin;Student;2012-04-15;2003-11-05;Pending
+Gary Tran;655236864;1992-10-03;Nepal;Tourist;2011-03-14;2005-10-21;Valid
+Carl Lyons;412909728;1961-04-02;Cambodia;Student;2002-01-25;2015-10-05;Expired
+Andrew Blanchard;658333030;1977-03-23;Holy See (Vatican City State);Work;2002-04-13;2018-02-08;Expired
+Anna Chavez;475303869;1973-01-30;Palestinian Territory;Student;2000-10-20;2021-04-21;Valid
+Connor Hughes;988731535;1994-12-07;Martinique;Work;2009-07-27;2005-09-16;Expired
+Kristina Fleming;622910739;1988-12-05;Afghanistan;Student;2022-05-09;2020-03-30;Expired
+Michael Blair;421228868;1953-02-11;Guinea;Diplomatic;2009-10-04;2012-04-12;Expired
+Nancy Martin;303374685;1955-08-08;Burundi;Tourist;2002-03-19;2012-04-17;Valid
+Kristin Perkins;426401209;1964-06-07;Ecuador;Work;2007-03-05;2003-05-11;Valid
+Joshua Doyle;14344305;1971-06-20;Niue;Work;2000-11-20;2000-01-14;Pending
+Brittany Robles;919654194;1978-10-26;Singapore;Diplomatic;2017-04-30;2017-04-04;Expired
+Amber Noble;28766192;1960-04-05;United States Virgin Islands;Work;2016-04-08;2002-03-04;Pending
+Amanda Pope;108933892;1953-06-06;Belarus;Work;2019-10-20;2009-05-03;Pending
+Emily Tucker;128830072;1971-06-22;Brazil;Work;2008-03-07;2002-06-27;Expired
+Samantha Lee;93202372;2004-04-30;Tuvalu;Diplomatic;2022-01-17;2020-02-03;Valid
+Jason Sutton;790381155;1990-09-29;Tunisia;Tourist;2011-03-23;2014-12-23;Expired
+Tristan Hardin;512350015;1990-07-30;Iraq;Tourist;2022-03-23;2005-06-14;Valid
+Charles Mitchell;384815571;1998-06-08;Kuwait;Student;2008-07-20;2022-09-25;Pending
+Sarah Garza;76848249;2002-06-19;Albania;Student;2020-01-12;2017-07-30;Valid
+Rachel Adkins;762791881;1955-03-06;Afghanistan;Student;2021-05-26;2003-10-27;Valid
+John Rogers;299188175;1983-09-29;Svalbard & Jan Mayen Islands;Diplomatic;2005-09-24;2007-04-07;Pending
+Lauren Hernandez;581407672;1953-07-18;Angola;Tourist;2012-07-31;2011-09-07;Pending
+Allison Webster;481295767;1955-02-16;Tanzania;Work;2002-03-02;2020-07-24;Expired
+Joseph Turner;786421423;1983-12-18;Pakistan;Tourist;2005-07-12;2018-03-30;Expired
+Veronica Hopkins;199414429;1986-02-13;Rwanda;Diplomatic;2000-06-08;2005-07-03;Pending
+Linda Morales;170032444;2004-08-14;Azerbaijan;Tourist;2014-08-15;2007-08-24;Pending
+Gregory Fletcher;878987732;1989-11-15;Bermuda;Work;2021-09-13;2013-02-24;Expired
+Brittany Holmes;249129761;1994-07-30;Uganda;Work;2000-08-03;2005-02-15;Valid
+Nathaniel Dorsey;876609970;2001-07-11;Greenland;Diplomatic;2022-08-15;2017-02-12;Pending
+Nathaniel Larson;828745523;2005-03-19;Greece;Diplomatic;2007-01-17;2002-11-06;Pending
+Allison Rice;143204790;1975-05-31;Paraguay;Tourist;2016-12-02;2008-01-03;Pending
+Ian Johnson;882515162;2003-10-09;Bosnia and Herzegovina;Student;2017-04-06;2006-09-13;Pending
+Larry Rose;231642788;1984-11-15;Madagascar;Student;2005-06-21;2000-06-16;Pending
+Dawn Jenkins;821416187;1967-08-27;Saint Barthelemy;Tourist;2001-12-19;2007-07-21;Expired
+Raymond Brown;747330158;1980-02-13;Haiti;Student;2019-01-07;2000-08-03;Valid
+Joseph Brown;36230250;2000-10-25;Puerto Rico;Diplomatic;2002-01-08;2014-02-23;Valid
+Walter Miller;379342183;1960-01-18;Lebanon;Student;2016-11-04;2020-07-19;Valid
+Tony Bell;249082602;1955-02-08;New Zealand;Tourist;2011-05-18;2012-12-04;Expired
+Willie Carter;450324502;1956-03-18;Slovakia (Slovak Republic);Diplomatic;2020-07-20;2018-07-02;Expired
+Carol Lynch;451574796;1953-12-12;Portugal;Tourist;2023-10-11;2003-07-21;Pending
+Jamie Richards;125576757;1953-07-14;Guinea;Work;2020-10-16;2010-06-26;Expired
+Matthew Berry;730093760;1985-07-14;Iceland;Tourist;2020-11-07;2021-05-16;Pending
+Laura Wilcox;564169403;2004-09-04;Sri Lanka;Diplomatic;2005-06-15;2004-08-02;Expired
+Megan Ortiz;672311223;1991-08-16;Micronesia;Student;2018-07-15;2019-11-11;Valid
+Brent Douglas;100713683;1984-09-11;Liechtenstein;Tourist;2011-03-21;2019-03-21;Pending
+Stephanie Frost;851207704;1976-08-05;Singapore;Tourist;2013-08-11;2002-09-14;Expired
+Lisa Kennedy;160748917;1956-03-05;Heard Island and McDonald Islands;Student;2019-06-20;2010-02-09;Pending
+Christopher Conway;478084704;1979-04-24;Switzerland;Tourist;2008-12-29;2003-01-01;Valid
+Elizabeth Carlson;802193668;1996-07-09;Solomon Islands;Diplomatic;2003-07-10;2010-05-01;Valid
+Timothy Collins;990126111;1998-12-05;Taiwan;Diplomatic;2003-07-29;2007-10-03;Valid
+Vernon Hernandez;477288316;1998-03-31;French Southern Territories;Tourist;2011-12-27;2006-03-09;Valid
+Christopher Peterson;196596620;1959-05-09;Botswana;Student;2008-05-17;2023-02-08;Expired
+Tracy Garcia;109611771;1968-10-14;French Southern Territories;Diplomatic;2004-03-09;2022-04-24;Expired
+Beverly Donovan;97158272;1957-02-06;Kazakhstan;Tourist;2021-06-12;2008-03-12;Pending
+Samantha Smith;448811116;1983-02-08;Moldova;Tourist;2008-05-15;2016-02-24;Pending
+Patrick Morris;128115634;1989-11-22;Antigua and Barbuda;Tourist;2001-08-19;2005-04-06;Pending
+Thomas Burns;876544070;1993-05-31;Slovenia;Tourist;2015-11-01;2020-11-21;Pending
+Dana Kelly;123718964;1978-03-07;Hong Kong;Diplomatic;2017-04-23;2020-02-09;Pending
+Hannah Meza;211833553;1997-08-18;Guinea-Bissau;Work;2007-10-23;2004-10-21;Valid
+Paul Richards;68365960;1994-11-19;Albania;Diplomatic;2020-09-09;2010-07-31;Expired
+Lisa Curry;288291413;1954-08-12;Latvia;Student;2000-04-12;2023-04-04;Expired
+Tracey Gray;174880189;1980-07-21;Aruba;Student;2012-04-24;2013-03-10;Expired
+Jamie Gilmore;379670092;1974-06-28;Cote d'Ivoire;Work;2012-08-02;2018-11-09;Expired
+Brian Hall;268974922;1959-06-20;Lao People's Democratic Republic;Work;2008-03-21;2012-04-14;Pending
+Mercedes Montgomery;588056451;1993-06-18;Dominican Republic;Diplomatic;2001-07-12;2005-08-01;Valid
+Thomas Hampton;564207982;1965-01-01;Micronesia;Student;2000-06-24;2023-05-28;Valid
+Michael Gonzales;29825557;1968-02-14;Holy See (Vatican City State);Tourist;2009-09-21;2018-01-18;Valid
+Mark Moran;936066260;1981-09-29;Cuba;Tourist;2010-08-11;2001-09-09;Valid
+Curtis Miller;187677219;1967-05-30;United States Virgin Islands;Work;2005-09-21;2016-08-16;Valid
+Nicole Hendrix PhD;673845695;1953-01-09;Tajikistan;Tourist;2018-03-17;2017-11-04;Valid
+Shawn Boone;710496018;1961-01-06;Turkmenistan;Student;2023-05-03;2020-09-12;Valid
+Christopher Dillon MD;705929860;1994-01-29;Switzerland;Work;2022-06-28;2022-04-05;Valid
+Crystal Robinson DDS;601921961;1955-09-25;Uganda;Student;2019-05-28;2003-07-17;Pending
+Sarah Wilson;981994372;1954-12-19;Uruguay;Diplomatic;2009-07-24;2014-01-10;Valid
+Patricia Castaneda;844747658;1973-04-07;Ireland;Work;2013-08-16;2022-03-29;Valid
+Taylor Ross;725512814;1977-05-17;Saudi Arabia;Tourist;2003-11-26;2010-06-03;Pending
+Donna Jackson;16824079;1970-11-08;Lao People's Democratic Republic;Diplomatic;2015-01-17;2019-03-31;Expired
+Elizabeth Mason;496907809;2000-07-18;Benin;Tourist;2007-04-07;2006-11-10;Pending
+Danielle Smith;159477697;1976-01-20;Reunion;Diplomatic;2017-06-05;2018-06-15;Pending
+Angela Mccoy;757413387;1964-07-26;Montserrat;Student;2006-01-19;2022-10-05;Valid
+Heather Lee;357564007;2004-09-05;Ghana;Diplomatic;2017-06-19;2012-11-28;Expired
+Jennifer Weiss;463287762;1970-07-17;Grenada;Student;2019-05-26;2015-09-04;Pending
+Nicholas Perry;103379103;2004-03-01;South Africa;Diplomatic;2018-04-12;2007-04-20;Pending
+Cheryl Brandt;523772777;1967-02-02;Iraq;Student;2004-11-18;2012-05-13;Expired
+David Tucker;257874124;1964-01-23;Benin;Tourist;2005-05-05;2016-04-27;Expired
+Diane Elliott;142507466;1995-11-09;Cote d'Ivoire;Work;2019-04-14;2017-08-30;Expired
+Catherine Koch;3780131;1973-03-15;Ukraine;Tourist;2016-01-03;2013-12-08;Expired
+Alec Mosley;225947427;1964-02-09;Qatar;Tourist;2009-09-07;2003-12-31;Valid
+Alvin Williams;914266065;1971-10-14;Montenegro;Work;2002-01-19;2002-01-07;Pending
+Daniel Bryan;311624607;2004-02-18;Indonesia;Tourist;2018-04-25;2016-05-22;Expired
+Dennis Griffith;167196745;1980-11-03;Syrian Arab Republic;Student;2003-04-30;2023-03-31;Valid
+Desiree Howard;763246820;1993-02-23;Guinea-Bissau;Diplomatic;2003-03-17;2008-06-17;Expired
+April Jones;899924695;1982-12-16;Croatia;Tourist;2012-04-27;2000-05-05;Expired
+Michelle Lewis;659624602;1984-11-19;Ghana;Student;2007-07-27;2004-07-10;Expired
+Corey Parrish;313297274;1974-11-08;United States Minor Outlying Islands;Work;2015-07-29;2017-04-19;Expired
+Kevin Cox;79774945;1966-08-14;Netherlands;Student;2018-02-26;2000-06-13;Expired
+Kenneth Church;732088200;2003-04-20;Montserrat;Student;2015-10-25;2010-11-14;Expired
+Jack Hall;889139543;1997-04-03;Cambodia;Work;2018-07-25;2011-10-21;Pending
+Amy Morris;175837905;1960-06-13;American Samoa;Work;2002-06-06;2014-08-28;Pending
+Lindsey Lucas;228441137;1982-01-27;Sao Tome and Principe;Work;2007-09-30;2000-05-12;Valid
+Christopher Mcgee;160986769;2002-08-28;Serbia;Student;2020-10-25;2010-05-17;Pending
+Joseph Hatfield;727566935;1956-04-24;Kuwait;Diplomatic;2009-01-30;2017-08-12;Pending
+Taylor Ward;169830749;1969-09-23;Nepal;Student;2020-07-19;2020-07-21;Valid
+Lisa Gibbs;676554962;1996-11-22;Ghana;Diplomatic;2012-02-12;2008-01-20;Valid
+Keith Mason;201395144;1961-06-12;Costa Rica;Work;2021-12-28;2011-02-22;Valid
+Kimberly Jordan;989315162;2000-10-19;Russian Federation;Student;2016-01-01;2014-03-21;Expired
+Mark Montgomery;231607911;1976-10-03;Poland;Work;2000-10-17;2004-07-26;Expired
+Kelly Montgomery MD;63973048;1980-03-18;Colombia;Tourist;2015-06-28;2013-12-05;Expired
+Kyle Pham;82112614;1954-11-03;Zimbabwe;Student;2015-07-01;2013-03-04;Expired
+Jason Burns;471978341;1955-02-15;Northern Mariana Islands;Work;2002-03-01;2014-10-08;Pending
+Tracy Hays;730350016;1974-08-17;Turkey;Tourist;2010-08-02;2006-02-15;Valid
+Gerald Arias;467225787;1981-06-22;Estonia;Diplomatic;2012-08-19;2021-12-25;Expired
+Rita Cook;624256144;1988-06-14;Tajikistan;Work;2016-12-22;2009-09-18;Expired
+Brian Washington;752100300;1977-12-31;Sudan;Student;2009-02-15;2004-01-07;Valid
+Caleb Thomas;948738768;1998-09-21;Timor-Leste;Work;2013-10-25;2001-09-15;Pending
+Derek Cook;758478379;1983-02-26;Georgia;Tourist;2002-01-26;2002-03-02;Pending
+Connor Williams;875927287;1958-08-04;Belize;Student;2023-05-15;2018-05-19;Pending
+Diane Guzman;988988584;1954-12-08;Comoros;Student;2008-02-05;2005-05-04;Valid
+Nathan Olsen;422494651;1995-06-05;Puerto Rico;Student;2022-01-29;2002-10-20;Expired
+Cory Berry;720840628;1986-08-03;Honduras;Work;2009-02-11;2020-07-30;Expired
+Fred Arias;144029904;1993-07-06;British Indian Ocean Territory (Chagos Archipelago);Tourist;2014-02-23;2005-06-18;Expired
+Joseph Adkins;165876199;1966-05-05;Holy See (Vatican City State);Diplomatic;2014-04-25;2016-09-13;Valid
+Ryan Smith;684628152;1964-02-24;Kiribati;Diplomatic;2022-07-05;2020-06-01;Pending
+Brittany Taylor;458394460;1990-01-28;El Salvador;Work;2021-11-15;2009-09-19;Expired
+Kevin Myers;656462001;1977-09-29;Latvia;Tourist;2012-08-04;2006-06-03;Expired
+Brian Neal;336460406;1972-07-08;United States Virgin Islands;Work;2014-04-03;2002-01-13;Valid
+Richard Nicholson;330709173;1976-11-05;Guyana;Work;2023-09-06;2019-12-09;Valid
+Stephen Martin;403220660;1998-05-15;Mauritania;Diplomatic;2006-04-26;2016-03-07;Expired
+Edward Weaver;637902157;1999-03-02;Portugal;Diplomatic;2019-05-01;2014-01-23;Valid
+Erin Wilson;840420771;1996-08-12;Micronesia;Student;2010-12-27;2005-05-02;Valid
+Frederick Porter;83823250;1987-11-05;Guadeloupe;Tourist;2002-02-24;2011-10-31;Valid
+Sheila Gonzales;268563110;1976-08-26;Guatemala;Work;2013-11-25;2020-11-18;Valid
+Nicole Castillo;307299024;1980-06-17;Timor-Leste;Student;2017-09-19;2006-02-12;Pending
+Mr. Marc Vance Jr.;743380805;2001-09-14;Northern Mariana Islands;Diplomatic;2015-04-09;2017-12-30;Expired
+Aaron Simmons Jr.;688894235;1972-01-22;Saint Helena;Diplomatic;2005-10-05;2020-05-31;Pending
+Rebecca Wells;339036852;1972-08-15;Aruba;Student;2002-02-17;2010-12-11;Valid
+Phillip Sosa;478840140;1998-02-14;Anguilla;Tourist;2014-05-14;2016-05-29;Expired
+Kimberly Anderson;215790691;1955-10-15;Luxembourg;Student;2004-06-05;2014-11-26;Pending
+Elijah Baldwin;646616783;1991-04-11;Congo;Work;2001-03-12;2014-02-28;Expired
+Larry Walker;589193198;1999-01-24;Kiribati;Diplomatic;2015-11-04;2003-01-07;Expired
+Jason Douglas;740396100;1973-09-15;Chile;Tourist;2002-07-29;2008-01-30;Pending
+Joseph Howard;696479216;1964-12-23;Taiwan;Work;2018-01-08;2020-12-14;Valid
+Stephanie Spencer;320097167;1985-09-02;North Macedonia;Work;2003-12-29;2014-02-12;Expired
+Deborah Simon;90248;1955-08-09;South Georgia and the South Sandwich Islands;Student;2017-01-24;2019-12-18;Pending
+Deborah Rodgers;271120602;1985-01-09;Gibraltar;Student;2023-10-12;2011-06-09;Expired
+Heather Ali;697869765;1964-03-06;Cyprus;Tourist;2010-09-26;2023-02-20;Valid
+Steven Rodriguez;447786358;1978-08-09;Andorra;Diplomatic;2016-10-11;2007-04-12;Expired
+Brian Taylor III;913695375;2004-08-30;Cocos (Keeling) Islands;Diplomatic;2013-08-16;2005-04-07;Expired
+Jerry Williams;562243173;1990-05-28;Martinique;Diplomatic;2007-11-28;2019-05-25;Valid
+April Contreras;446132658;1998-09-11;Solomon Islands;Tourist;2014-03-24;2006-02-18;Expired
+Paula Jacobs;337812442;1981-07-22;Haiti;Diplomatic;2009-09-29;2021-07-20;Pending
+Jenny Page;769904561;1992-09-08;Andorra;Work;2017-01-11;2017-08-12;Valid
+Joyce Fisher;609441270;2004-09-22;Monaco;Tourist;2017-01-19;2011-06-24;Valid
+Jennifer Brandt DDS;692702871;1984-02-21;Zambia;Student;2020-02-02;2020-12-02;Expired
+Alexander Snyder;698248528;1996-10-31;Palau;Tourist;2019-03-15;2009-06-19;Expired
+Donald Rivera;725514770;2003-07-04;Faroe Islands;Tourist;2022-06-24;2001-01-15;Valid
+Dale Harmon;866150958;1976-03-22;Bangladesh;Student;2000-03-10;2021-07-09;Pending
+Roberta Andrews;453846961;1954-11-01;Niger;Diplomatic;2018-02-15;2006-09-01;Valid
+Ronnie Fields;594503720;1998-10-24;Wallis and Futuna;Student;2019-01-23;2023-04-11;Pending
+Mary Ruiz;871271238;1969-10-07;Qatar;Tourist;2022-05-05;2011-01-01;Pending
+Jennifer Berger;239342568;1979-08-03;Lesotho;Student;2008-05-11;2000-03-10;Pending
+Brandon Anderson;198025108;1996-01-16;Samoa;Tourist;2007-02-12;2008-06-20;Valid
+Russell Hall;345655317;1955-11-03;Libyan Arab Jamahiriya;Tourist;2002-02-21;2011-05-12;Expired
+Jason Rodriguez;415608681;2004-08-12;Tokelau;Tourist;2019-08-07;2014-01-06;Valid
+Lisa Cochran;999922707;1970-02-20;Ethiopia;Diplomatic;2013-02-18;2008-02-24;Expired
+Jade Lewis;359583242;1973-10-04;Venezuela;Student;2006-08-01;2019-05-28;Valid
+Sherri Sharp;861621367;1982-01-11;Slovakia (Slovak Republic);Work;2009-11-19;2018-07-22;Valid
+Lisa Gonzalez;829038076;2000-04-30;Kiribati;Student;2005-01-03;2022-06-18;Valid
+Jennifer Wheeler;77088949;1989-04-02;Haiti;Diplomatic;2022-04-05;2010-07-17;Expired
+Alvin Barr;659103725;1954-11-06;Uzbekistan;Work;2013-12-03;2013-02-04;Valid
+Michele Pope;17360871;1959-07-15;Somalia;Student;2022-07-18;2005-09-09;Pending
+Jackie Mitchell;387436481;2005-04-12;Antarctica (the territory South of 60 deg S);Tourist;2021-11-13;2012-05-04;Expired
+Edgar Holt;941199208;1993-05-12;Puerto Rico;Student;2015-06-02;2019-06-03;Valid
+Stephanie Lee;409678513;1977-07-04;Holy See (Vatican City State);Student;2010-12-17;2014-03-05;Pending
+Calvin Maldonado;256307849;1965-12-16;Bermuda;Tourist;2016-08-09;2021-11-02;Expired
+William Taylor;800064665;1954-05-28;Mexico;Work;2001-03-27;2016-06-02;Expired
+Kimberly Peck;596490721;1994-06-28;Bahrain;Student;2009-06-20;2003-07-20;Valid
+Karen Heath;871028314;1985-05-22;Maldives;Tourist;2016-09-30;2020-06-01;Expired
+Michele Gilbert;16234022;1977-03-19;Singapore;Student;2016-12-29;2016-05-28;Expired
+Benjamin Stevens;135061365;1954-08-11;Peru;Work;2013-12-21;2021-07-16;Expired
+Brenda Collins;247345895;1973-04-26;Thailand;Diplomatic;2008-05-20;2001-07-13;Valid
+Brett Patterson;164071713;1959-04-02;Wallis and Futuna;Diplomatic;2015-09-20;2006-09-02;Valid
+Phillip Castillo;788018593;1953-12-03;Macao;Diplomatic;2004-01-16;2010-06-12;Pending
+Laurie Stevens;282214692;1982-11-30;Maldives;Diplomatic;2014-12-31;2017-03-03;Expired
+Jasmine White;370495628;1976-08-02;Isle of Man;Work;2000-07-30;2018-08-26;Expired
+Samantha Warner;190362189;1964-12-19;Mauritius;Student;2007-12-22;2004-02-12;Expired
+Michael White;120222890;1955-08-25;Tanzania;Tourist;2020-09-10;2020-08-01;Pending
+Adam Holmes;445055405;2005-09-13;Hong Kong;Diplomatic;2020-11-12;2022-06-03;Valid
+Joel Hooper;975552056;1995-07-08;Kyrgyz Republic;Student;2012-11-11;2010-12-27;Valid
+James Lee;796889691;2001-11-21;Bouvet Island (Bouvetoya);Diplomatic;2018-11-20;2021-11-13;Valid
+Andrew Mccarthy;804962945;1974-10-08;Saint Barthelemy;Work;2015-11-01;2013-03-20;Valid
+Eric Hale;442728406;1990-06-09;Gibraltar;Diplomatic;2010-03-13;2008-05-13;Valid
+Alejandro Hunter;744471193;1995-01-14;Hong Kong;Student;2021-08-12;2016-12-16;Valid
+Janet Salazar;835641150;1956-03-17;Bahamas;Tourist;2012-09-05;2009-08-25;Valid
+Barbara Phillips;806434850;1964-05-07;Mauritius;Diplomatic;2021-03-03;2006-03-15;Expired
+Matthew Kelly;204165324;1990-08-17;Angola;Tourist;2019-04-12;2002-11-25;Expired
+Albert Johnson;966022948;1977-04-21;Montenegro;Tourist;2007-02-01;2011-06-07;Valid
+Amber Mitchell;320771543;1968-11-23;Falkland Islands (Malvinas);Student;2003-01-05;2005-11-28;Expired
+Sarah Hanson;806102101;2005-03-06;Falkland Islands (Malvinas);Diplomatic;2019-03-29;2010-03-06;Valid
+Samantha Valentine;659884146;1987-10-25;Finland;Student;2005-06-11;2006-11-13;Valid
+Renee Hanson;487849465;1994-09-19;Kyrgyz Republic;Tourist;2008-02-17;2023-05-25;Pending
+Jennifer Miller;772315945;1974-12-23;Venezuela;Work;2022-01-20;2011-03-13;Expired
+Megan Silva;587835518;1965-04-30;Eritrea;Tourist;2010-02-01;2023-05-14;Pending
+Cody Stephens;492109403;2005-02-21;Aruba;Student;2019-06-22;2017-11-01;Expired
+Melissa Mathis;919399470;1991-07-24;Malaysia;Student;2009-03-03;2008-07-11;Expired
+Mary Osborn;440235998;1999-11-15;Eritrea;Work;2010-10-11;2000-11-26;Expired
+Kristi Noble;397516266;1961-05-04;Maldives;Student;2022-05-13;2012-03-17;Pending
+Kathleen Fields;207263338;1964-03-22;Kenya;Work;2011-09-15;2010-06-01;Expired
+Renee Ortiz;718955964;1957-05-09;Kyrgyz Republic;Student;2022-07-15;2010-03-12;Valid
+Austin Wilson;191996633;1991-10-17;Micronesia;Diplomatic;2008-05-28;2023-09-26;Expired
+Ricky Neal MD;720242480;1990-06-20;Austria;Tourist;2006-02-24;2001-01-15;Pending
+Amber Sanford;318224119;1999-09-14;Austria;Diplomatic;2007-10-27;2018-06-14;Valid
+Donald Phillips;514135913;1956-03-06;Fiji;Diplomatic;2002-02-13;2020-11-08;Pending
+Aaron Watson;151741378;1997-07-16;Seychelles;Diplomatic;2000-08-05;2006-09-01;Expired
+Mark Valencia;606630453;1959-06-17;Antarctica (the territory South of 60 deg S);Student;2022-02-06;2010-04-09;Pending
+Shannon Ayala;932251422;1966-09-27;Jordan;Tourist;2023-10-15;2002-04-27;Valid
+Thomas Velazquez;970867661;1968-11-06;Honduras;Student;2007-04-27;2022-05-01;Valid
+Kevin Ellis;948685766;1964-10-24;Nigeria;Student;2007-06-18;2007-09-23;Expired
+Kimberly Salinas;163750106;1997-10-23;Turks and Caicos Islands;Tourist;2020-12-18;2004-05-07;Pending
+Earl Johnson;768438196;1969-03-01;Netherlands Antilles;Diplomatic;2004-07-09;2003-03-01;Valid
+Robert Norris;465438234;1968-01-02;United States of America;Diplomatic;2014-05-22;2019-06-10;Expired
+Rebecca Bishop;401164981;1993-05-16;Martinique;Student;2006-03-21;2010-03-03;Pending
+Brooke Hobbs;563335527;1986-01-15;Denmark;Diplomatic;2005-09-11;2019-09-15;Pending
+Kimberly Gutierrez;717505826;1982-07-30;Puerto Rico;Tourist;2010-04-15;2018-05-17;Valid
+Tara Clark;691438889;1996-09-07;Eritrea;Work;2016-03-02;2013-11-05;Expired
+Sandra Olsen;692865422;1993-02-14;Albania;Diplomatic;2000-01-02;2010-03-17;Valid
+Kimberly Rodriguez;809790405;2003-05-15;Morocco;Student;2013-10-31;2021-03-18;Pending
+Martin Wolfe;716874582;1965-03-21;Turkmenistan;Student;2022-09-11;2019-03-10;Expired
+Alexandria Woodward;552887775;1959-11-12;Chad;Work;2018-05-12;2014-03-02;Pending
+Robert Cohen;606100089;1977-07-27;Saint Vincent and the Grenadines;Diplomatic;2008-10-01;2002-08-27;Expired
+Mark Rodriguez;722387697;2001-04-28;Malaysia;Diplomatic;2010-12-28;2008-04-27;Expired
+Joel Sexton;527322301;1965-12-14;Ireland;Student;2011-09-10;2017-11-23;Pending
+Michael Zimmerman;562507215;2001-10-15;Haiti;Student;2008-07-21;2017-06-22;Expired
+Wendy Michael;211491740;1959-03-19;Sweden;Tourist;2010-03-25;2006-09-25;Valid
+Christine Nelson;683651242;1959-04-03;Myanmar;Diplomatic;2008-04-12;2004-09-25;Expired
+Bradley Clark;701724619;1979-12-08;Denmark;Tourist;2003-12-27;2020-09-27;Valid
+Wendy Yoder;720450446;1982-11-14;Western Sahara;Diplomatic;2007-11-14;2021-12-10;Valid
+Anthony Smith;597181169;1980-06-01;Ukraine;Tourist;2006-04-10;2005-03-24;Expired
+Gregory Brown;184533550;1967-07-18;Singapore;Student;2015-03-15;2018-12-28;Pending
+Harold Reyes;671228143;2005-08-29;Sweden;Student;2000-03-13;2023-08-08;Expired
+Jay Williams;121041683;1999-12-10;United States Virgin Islands;Student;2017-06-01;2019-09-28;Valid
+Samuel Campbell;744647536;2005-06-06;Reunion;Work;2021-03-15;2016-12-30;Pending
+Jeffrey Kennedy;864998714;1995-01-07;Cote d'Ivoire;Diplomatic;2002-05-21;2002-02-20;Expired
+Mariah Wilson;483161959;1975-05-11;Comoros;Tourist;2003-07-16;2005-01-05;Expired
+Rachel Evans;785097190;1961-10-10;Bangladesh;Tourist;2021-01-26;2009-08-15;Pending
+Erin Fernandez;823348735;1991-11-15;Netherlands;Student;2003-05-11;2000-01-28;Valid
+Casey Johnston;503577705;1996-05-18;Eritrea;Student;2009-02-26;2004-05-08;Expired
+Sean Smith;7365892;1989-09-17;Brazil;Diplomatic;2007-09-15;2023-05-06;Pending
+Nicole Nicholson;237469307;1993-12-17;Turks and Caicos Islands;Work;2020-08-12;2012-05-07;Pending
+Debra Guzman;561171444;1969-01-28;Saint Kitts and Nevis;Work;2023-07-01;2010-10-11;Expired
+Manuel Nelson;595050584;1976-09-05;Congo;Tourist;2003-03-07;2011-05-12;Valid
+Edward Todd;525463495;1982-04-16;Pakistan;Student;2003-07-23;2021-11-23;Valid
+Emily King PhD;225804966;1989-07-17;Seychelles;Tourist;2017-07-23;2013-05-31;Valid
+April Hall;562369649;1980-11-24;Seychelles;Student;2012-12-23;2016-09-04;Valid
+James Weeks DDS;371512994;1979-04-01;Burundi;Tourist;2008-09-28;2017-10-05;Expired
+Jody Jacobs;49937359;1993-04-19;Slovakia (Slovak Republic);Tourist;2017-07-02;2022-10-23;Pending
+Tracy Rodriguez;71897731;2004-01-03;Palestinian Territory;Student;2014-03-15;2008-10-16;Valid
+Patrick Lyons;652646548;1976-03-21;Korea;Diplomatic;2006-09-28;2013-06-19;Valid
+Danielle Stephens;690181499;1956-05-29;South Africa;Work;2018-12-12;2019-11-12;Pending
+Judy Oconnor;965498024;1985-07-07;France;Diplomatic;2013-05-07;2001-12-22;Expired
+Dana Miller;604276130;1997-07-15;Congo;Work;2023-04-30;2007-05-18;Valid
+Laura Bishop;242257270;1975-04-05;Australia;Tourist;2019-07-15;2000-07-08;Expired
+Steven Graham;293524900;1994-07-28;Haiti;Student;2004-04-09;2023-06-22;Valid
+Jennifer Taylor;243468134;1956-07-19;Bulgaria;Diplomatic;2023-03-11;2002-12-19;Expired
+Sarah Lewis;245077382;1957-12-26;Northern Mariana Islands;Student;2013-03-19;2009-03-29;Pending
+Anita Gallagher;904125573;1969-06-04;Turks and Caicos Islands;Work;2011-06-22;2002-04-14;Valid
+David Cooper;442311830;1994-06-20;Chile;Work;2007-08-21;2003-12-02;Expired
+Peter Martinez;734141027;1955-05-13;Saint Kitts and Nevis;Diplomatic;2005-03-12;2010-10-21;Pending
+Melissa Jones;591115828;1987-05-05;Tunisia;Work;2022-05-26;2001-05-12;Valid
+Nicole King;979733893;2002-09-11;Uzbekistan;Student;2021-10-06;2008-01-14;Valid
+Amber Perry;56495008;1982-02-07;Kenya;Student;2022-06-04;2005-09-01;Valid
+Nicole Robinson;197447527;2002-07-03;Uruguay;Work;2020-12-17;2022-02-11;Pending
+Robert Ferguson Jr.;945405969;1978-06-03;Faroe Islands;Student;2021-07-30;2008-03-20;Expired
+Adam Alvarado;143176971;1999-09-16;Georgia;Student;2018-10-01;2013-08-25;Expired
+Andrew Weeks;265625969;1968-01-12;Mexico;Student;2004-11-25;2002-09-22;Expired
+Diane Nicholson;889769488;1989-10-23;Bermuda;Student;2009-01-27;2000-06-18;Pending
+Charles Dennis;937485526;1975-03-01;Tonga;Diplomatic;2003-12-08;2017-03-18;Expired
+Stacy Bush;1079008;1992-03-17;Morocco;Tourist;2023-07-26;2003-12-17;Expired
+Carly Jones;845259512;1954-01-19;Korea;Diplomatic;2022-10-27;2007-07-02;Pending
+Audrey Bennett;22868446;1958-10-26;Brunei Darussalam;Student;2010-04-20;2007-05-16;Pending
+Mark Baldwin;515719999;2002-07-19;United States Minor Outlying Islands;Diplomatic;2004-11-20;2011-07-26;Pending
+Andrew Kim;840571452;1976-10-07;Czech Republic;Student;2003-02-06;2015-09-22;Valid
+Timothy Sutton;216564300;1995-04-04;Greenland;Diplomatic;2003-11-25;2018-09-14;Pending
+Elizabeth Kennedy;512257333;1981-01-05;San Marino;Work;2009-11-02;2005-03-10;Expired
+Kristen Thompson;748466127;1989-01-15;Swaziland;Student;2007-04-02;2016-07-28;Expired
+Nancy Lopez;537710626;1994-02-05;Nauru;Tourist;2017-11-27;2010-04-26;Valid
+Brittany Shea;80770132;1985-06-25;Qatar;Diplomatic;2015-08-10;2002-11-23;Pending
+William Jordan;166493783;2003-11-30;Italy;Student;2012-06-18;2022-08-25;Expired
+Christopher Rodriguez;234181035;1969-07-01;Uruguay;Student;2020-02-02;2020-04-29;Pending
+John Fuentes;139617354;2003-11-11;Peru;Diplomatic;2002-10-24;2015-12-05;Pending
+Stephanie Watson;304403858;1958-05-13;Moldova;Tourist;2014-02-09;2014-10-10;Pending
+Leslie Marshall;500729611;1993-12-15;Turks and Caicos Islands;Tourist;2009-03-18;2023-05-05;Pending
+Joseph Jefferson;105234546;1962-02-03;Myanmar;Student;2005-01-15;2009-11-26;Expired
+Tamara Jensen;833240466;1988-02-12;Cyprus;Student;2009-08-26;2023-10-15;Pending
+Tonya Oconnor;238727089;1996-07-13;Germany;Work;2023-04-23;2009-11-21;Expired
+Steven Leon;415715601;1981-12-27;Burundi;Student;2012-09-17;2022-03-12;Valid
+Leslie Sellers;769104555;1998-04-08;United Arab Emirates;Tourist;2005-04-27;2020-08-13;Pending
+Sarah Weber;426783597;1977-10-15;Ethiopia;Work;2007-12-05;2002-07-20;Pending
+Michelle White;371483390;1985-02-19;Afghanistan;Diplomatic;2009-02-13;2009-01-04;Pending
+Mr. Bradley Thomas;216600784;1954-09-09;Bahamas;Student;2015-08-25;2011-03-04;Expired
+Gwendolyn Smith;407336538;1983-02-19;Eritrea;Diplomatic;2018-04-06;2020-01-06;Valid
+Abigail Bryant;622163269;1987-05-03;Malaysia;Work;2018-05-18;2015-07-20;Valid
+Kelly Anderson;77609242;1958-07-12;Uruguay;Student;2018-06-04;2001-11-06;Pending
+Rachel Contreras;763895050;1990-10-31;Japan;Student;2010-11-27;2021-10-09;Valid
+Brian Ross;676646297;1954-05-07;Niger;Diplomatic;2005-06-14;2019-01-17;Expired
+Joseph Lowery;486387243;1984-03-23;Malaysia;Work;2016-04-19;2005-09-05;Pending
+Jeremy Young;494708381;1995-04-25;India;Tourist;2000-05-18;2011-03-12;Pending
+Joseph Strong;894279996;1957-12-03;Slovenia;Tourist;2021-04-10;2017-09-28;Pending
+Anthony Flores;592843780;1962-08-21;Tajikistan;Tourist;2002-09-27;2012-09-03;Expired
+Michael Holden;930096274;1993-12-17;Heard Island and McDonald Islands;Student;2014-05-02;2019-04-04;Expired
+Danielle Bishop;81703281;1988-09-21;United States Virgin Islands;Work;2002-11-27;2020-04-30;Expired
+Matthew Baxter;341002076;1973-11-03;Azerbaijan;Tourist;2013-08-03;2012-08-23;Pending
+Mary Combs;706751788;1973-10-24;Cook Islands;Work;2016-02-15;2019-04-25;Pending
+Christine Jacobson;974977394;1972-10-13;Burkina Faso;Work;2016-11-14;2002-08-15;Pending
+Sarah Walter;369289380;1954-08-23;Hungary;Work;2009-11-21;2002-05-30;Expired
+Yesenia Mcdonald;362235596;1957-04-11;Papua New Guinea;Student;2020-08-18;2012-05-22;Pending
+Monica Johnston;467145086;1967-02-18;Liechtenstein;Diplomatic;2014-12-12;2023-04-09;Valid
+Michael Walker;974557388;1995-12-20;Greece;Work;2023-07-23;2013-12-01;Pending
+Jerry Jones;464790399;1981-04-19;Kyrgyz Republic;Diplomatic;2004-11-13;2014-08-20;Pending
+Shawn Rodriguez;339504193;1985-09-18;Tunisia;Work;2013-10-07;2018-01-21;Expired
+Shawn Clark;676682054;1986-12-21;Solomon Islands;Student;2004-06-02;2012-08-31;Pending
+Tracy Williams DVM;143878963;1996-09-14;Saint Martin;Student;2017-04-28;2017-02-18;Pending
+Kevin White;782826220;1972-07-28;Cape Verde;Diplomatic;2020-05-06;2010-04-05;Valid
+Travis Anderson;803039490;1959-06-11;Seychelles;Diplomatic;2009-05-12;2000-02-15;Expired
+Teresa Soto;862677081;2002-10-24;Mali;Diplomatic;2002-04-11;2000-12-22;Pending
+Katherine Whitney MD;459051054;1961-04-07;Kenya;Diplomatic;2015-01-19;2018-06-28;Expired
+Laura Mccarthy;204404686;1979-03-02;Papua New Guinea;Student;2020-04-15;2015-01-05;Expired
+Robert Ramos;818620272;1956-04-03;Svalbard & Jan Mayen Islands;Work;2023-02-10;2010-03-18;Expired
+Robert Hoffman;75516863;1966-09-16;Angola;Tourist;2016-03-09;2006-03-22;Pending
+Trevor Campbell;889748994;1985-03-04;Peru;Tourist;2006-11-09;2012-10-12;Pending
+Barbara Mathews;466422726;1959-10-04;Zambia;Tourist;2020-01-17;2018-12-31;Expired
+David Gallegos;603340277;1972-09-05;Paraguay;Work;2015-08-06;2001-12-02;Expired
+Kimberly Smith;194930440;1959-09-18;Aruba;Diplomatic;2015-12-05;2004-03-10;Valid
+Craig Miller;473171039;1982-05-13;South Africa;Tourist;2001-05-06;2022-11-18;Expired
+Mr. David Kennedy MD;380612907;2004-03-18;Saint Martin;Diplomatic;2014-08-22;2019-02-16;Valid
+Kevin Moreno;60479725;1998-03-04;Russian Federation;Student;2022-11-13;2020-06-21;Pending
+Isabella Richardson;630568007;1961-04-16;Argentina;Diplomatic;2009-04-08;2016-12-01;Expired
+Lisa Adams;260147558;1961-12-12;Iraq;Diplomatic;2021-10-27;2002-10-18;Valid
+Kelli Sanchez;492127285;1976-04-21;Iraq;Student;2021-01-08;2016-12-10;Expired
+Darren Lowery;112992285;1983-10-31;Equatorial Guinea;Diplomatic;2017-11-13;2014-11-04;Expired
+Hannah Long;818964674;1961-08-31;Martinique;Work;2019-05-01;2008-10-13;Pending
+Ariel Wood;334942925;1980-05-11;Estonia;Student;2012-02-05;2009-12-23;Expired
+Danielle Barajas;163799441;2001-03-02;Kazakhstan;Diplomatic;2022-10-16;2020-02-13;Expired
+Raymond Brooks;893213965;2000-06-24;Norfolk Island;Diplomatic;2003-03-29;2017-01-05;Valid
+James Hall;271836786;1984-09-27;Barbados;Work;2014-10-02;2007-05-24;Valid
+Jamie Benson;955872834;1995-03-03;American Samoa;Work;2004-10-12;2010-04-07;Expired
+Kathryn Stark;909546782;1964-05-08;Greenland;Student;2011-02-10;2000-03-20;Pending
+Brooke Miller;184825053;1968-10-02;Venezuela;Tourist;2010-04-10;2011-04-13;Expired
+Elizabeth Foster;225126630;1966-07-13;Bermuda;Tourist;2022-08-11;2020-08-26;Expired
+John Ayala;840781632;2000-09-28;Central African Republic;Work;2008-03-06;2013-08-23;Valid
+Laura Smith;803178145;2001-01-19;Lithuania;Diplomatic;2011-03-20;2009-06-30;Expired
+Karen Stokes;393792201;1988-02-13;Brazil;Diplomatic;2019-10-15;2013-02-07;Valid
+Christopher Ramos;801393473;1978-08-27;Uruguay;Tourist;2016-04-06;2000-11-22;Valid
+Michaela Carrillo;318478343;1985-08-07;Canada;Student;2018-10-02;2000-06-20;Pending
+Johnny Wilkins;801357616;1992-04-20;Antarctica (the territory South of 60 deg S);Diplomatic;2019-04-07;2023-08-24;Pending
+Tracy Barber;110765278;2005-04-11;Barbados;Tourist;2015-03-18;2002-06-23;Valid
+Dale Rowe;866687307;1983-10-15;Northern Mariana Islands;Work;2008-06-28;2011-05-16;Valid
+Brenda Cameron;184542977;1993-12-27;Seychelles;Student;2013-06-20;2000-12-15;Valid
+Shelly Coleman;984619319;1978-09-04;Switzerland;Diplomatic;2010-04-30;2005-11-08;Expired
+James Crosby;933038526;1970-05-11;Serbia;Work;2013-12-01;2005-08-21;Valid
+Jessica Kidd;234153005;1984-01-06;India;Work;2001-10-12;2013-07-22;Expired
+James Lopez;586921161;1961-03-24;Gabon;Tourist;2000-12-01;2000-12-16;Expired
+Michelle Walker;860750568;1960-11-04;North Macedonia;Tourist;2013-01-17;2018-07-08;Expired
+Ann Cooley;740567538;1999-05-06;Bosnia and Herzegovina;Tourist;2022-09-09;2020-05-03;Expired
+Katherine Cummings;237068285;1983-04-18;Japan;Tourist;2022-05-21;2013-05-18;Pending
+Joshua Leblanc;543665352;1984-07-17;Chile;Work;2005-03-13;2022-02-15;Expired
+Barbara Chapman;634234028;1977-10-31;Seychelles;Diplomatic;2020-01-19;2008-11-01;Pending
+Jasmin Medina;106166364;2003-03-10;Sweden;Tourist;2012-06-04;2000-11-13;Pending
+Brittany Hunt;92361814;1972-08-14;Argentina;Work;2010-01-19;2014-08-31;Valid
+Christopher Johnson;910617649;1975-07-07;Yemen;Student;2014-06-04;2016-10-13;Valid
+Yesenia Swanson;398067258;1990-11-05;Paraguay;Student;2006-09-10;2021-11-23;Valid
+Ruben Delgado;437778368;1972-06-26;Paraguay;Tourist;2006-06-21;2017-03-19;Valid
+Jessica Jackson;934425392;1978-08-31;Bhutan;Work;2004-09-06;2013-08-04;Pending
+Kelly Nunez;471059958;1966-12-09;Andorra;Work;2021-04-27;2020-01-21;Expired
+Nicole Mitchell;768794460;1998-09-13;Albania;Tourist;2012-11-12;2019-09-25;Pending
+Michelle Doyle;945274105;1959-10-27;Montserrat;Diplomatic;2021-09-21;2013-10-14;Valid
+Anthony Perry;887568883;1982-11-22;Sweden;Work;2021-06-06;2022-09-10;Valid
+Laura Bailey;438153355;2003-11-16;Bangladesh;Diplomatic;2009-07-22;2005-10-24;Expired
+Amanda Crawford;13026650;1961-03-22;Anguilla;Tourist;2016-12-14;2001-12-26;Pending
+Kathleen Snyder;232364025;1975-08-21;Gibraltar;Student;2007-01-03;2016-12-14;Valid
+Trevor Simmons Jr.;161434260;1976-03-14;Yemen;Student;2013-12-31;2004-11-25;Pending
+Rebecca Osborne;400177933;2003-07-28;Bosnia and Herzegovina;Student;2005-09-29;2014-01-19;Expired
+Timothy Lindsey;34853672;1982-07-23;Iran;Student;2014-07-06;2021-08-17;Valid
+Justin Burke;454544934;1978-11-23;Ireland;Student;2012-01-27;2017-10-20;Valid
+Cynthia Berry;88426406;1965-01-31;Mayotte;Work;2001-09-20;2017-11-20;Pending
+Robert Gill;373357044;2002-02-21;Burundi;Diplomatic;2009-03-14;2020-05-03;Pending
+Emily Hubbard;465777751;1953-09-23;Liechtenstein;Student;2005-02-14;2007-04-06;Pending
+Ricky Richardson;554337455;1996-06-11;Rwanda;Diplomatic;2021-10-13;2014-05-17;Expired
+Carrie Huber;350148101;1969-11-19;Bhutan;Diplomatic;2015-05-25;2022-02-25;Expired
+Natalie Walker;803385197;1976-10-25;Martinique;Diplomatic;2014-05-23;2014-11-24;Valid
+Lisa Jensen;990313950;1966-09-24;Iceland;Diplomatic;2000-01-17;2004-06-08;Pending
+Matthew Price;721800988;1959-11-08;Malawi;Tourist;2000-05-24;2000-01-20;Pending
+Robert Patel;352411221;1981-10-25;Thailand;Tourist;2017-01-14;2022-06-29;Expired
+Douglas Mayo;636344944;1974-12-20;Saudi Arabia;Diplomatic;2006-06-04;2005-07-11;Valid
+Samuel Rowe;738342829;1963-01-13;Marshall Islands;Student;2000-08-22;2015-08-25;Pending
+Catherine Kirby;652907431;1964-08-16;Liechtenstein;Work;2004-12-19;2009-04-29;Valid
+Paul Clark;640781582;1973-02-28;Sri Lanka;Diplomatic;2003-05-14;2002-06-17;Expired
+Jill Knight;453533337;1989-07-18;Spain;Student;2009-01-20;2003-03-01;Valid
+Denise Anderson;356393886;2004-05-12;Argentina;Diplomatic;2010-04-13;2013-11-24;Valid
+Amanda Moore;272631414;1961-04-29;Iceland;Tourist;2011-11-02;2023-09-06;Pending
+Danielle Morales;729464713;1984-07-07;Saint Martin;Diplomatic;2001-06-26;2002-08-26;Valid
+Jeffrey Hampton;939782047;1990-09-06;Korea;Work;2004-01-11;2003-04-09;Pending
+Stephanie Castillo;247864049;1991-09-09;Argentina;Diplomatic;2013-03-05;2017-09-26;Pending
+Gina Huff;481298525;1976-02-06;Greece;Tourist;2005-01-26;2001-04-24;Pending
+Lindsey Norman;949789295;1955-06-04;Mauritius;Tourist;2022-12-13;2014-09-07;Pending
+Jennifer Barron;575009099;1962-11-10;Honduras;Diplomatic;2014-07-18;2015-04-30;Expired
+Tanner Williams;442891735;1991-04-19;Georgia;Diplomatic;2002-04-06;2009-10-21;Pending
+Adam Smith;931820798;2003-05-03;Zimbabwe;Work;2003-01-17;2017-10-25;Pending
+Sean Miles;67156769;1979-10-14;Austria;Diplomatic;2000-05-11;2016-02-28;Valid
+Rodney Graves;485109900;1984-05-24;Iceland;Tourist;2012-07-23;2009-10-03;Valid
+Tara Nguyen;813288060;1998-10-26;South Georgia and the South Sandwich Islands;Student;2015-05-17;2023-07-07;Valid
+Isabella Washington;532951648;1972-11-28;Mongolia;Tourist;2015-06-28;2013-02-24;Valid
+Stephanie Williams;701539170;1953-11-04;Pakistan;Tourist;2008-07-10;2020-11-27;Valid
+James Jones;684915137;1957-10-11;Sweden;Student;2011-09-01;2018-09-03;Expired
+Pamela Watson;248884191;1992-12-14;Solomon Islands;Student;2023-01-11;2015-09-07;Valid
+Colin Rhodes;373978432;1958-02-09;United States Minor Outlying Islands;Tourist;2006-09-16;2020-08-31;Expired
+Gabriel Smith DDS;971261506;1988-03-19;Kiribati;Student;2016-02-12;2013-02-23;Pending
+Madison Palmer;869022200;1961-11-18;Nigeria;Student;2016-08-22;2016-08-21;Pending
+Joseph Johns;295039408;1961-05-16;Syrian Arab Republic;Tourist;2021-07-11;2015-12-17;Expired
+Kelly Reyes;42068433;1957-09-02;Kiribati;Diplomatic;2004-11-26;2004-03-07;Expired
+Matthew Martinez;259928133;1957-12-15;Peru;Diplomatic;2018-03-06;2022-08-08;Expired
+Deanna Munoz;749911680;1998-08-16;Martinique;Work;2007-02-25;2006-11-26;Valid
+Madison Diaz;800413999;1976-03-09;Liberia;Work;2001-04-05;2012-04-29;Pending
+Keith Johnson;934380606;1990-06-19;Montenegro;Work;2013-07-25;2001-08-03;Valid
+Mary Velez DVM;734389118;1971-08-10;Taiwan;Work;2012-07-20;2000-08-26;Valid
+Paul Miller;413059304;1973-10-06;Jordan;Tourist;2003-08-03;2018-09-06;Pending
+Dana Morales;377314133;1960-03-25;Kenya;Student;2006-12-02;2014-02-10;Expired
+David Smith;315943799;1974-08-03;Madagascar;Student;2009-03-14;2000-10-30;Pending
+Christian Zuniga;888090410;1969-11-21;Paraguay;Diplomatic;2002-08-20;2020-12-04;Valid
+Peter Cohen;528470418;1960-10-16;Denmark;Student;2013-06-15;2013-12-19;Pending
+Ronald Peterson;347396882;1966-03-29;Senegal;Diplomatic;2009-08-06;2009-03-01;Expired
+Jason Hudson;337648477;1990-02-12;Slovenia;Student;2020-03-09;2019-10-27;Pending
+Rhonda Olsen;815496737;1994-05-25;Italy;Tourist;2007-01-21;2010-12-17;Pending
+Susan Smith;825884465;1963-04-10;Azerbaijan;Diplomatic;2011-04-14;2023-06-26;Expired
+Kristin Jones;80068013;1971-06-16;Nigeria;Student;2017-06-06;2009-04-17;Pending
+Albert Lutz;463671115;1964-01-23;Nepal;Student;2008-06-18;2010-03-26;Pending
+Timothy Lang;752393186;1962-08-04;Bangladesh;Work;2023-03-10;2021-06-26;Pending
+Heather Bell;987234868;1961-03-11;Angola;Tourist;2002-09-27;2019-06-13;Expired
+Jeffrey Vaughan;95984401;1989-03-16;Falkland Islands (Malvinas);Tourist;2018-02-13;2009-10-03;Pending
+Cheyenne Rodriguez;510096546;1964-01-26;Senegal;Work;2012-07-07;2011-05-12;Expired
+John Scott;489421266;1954-08-31;Northern Mariana Islands;Diplomatic;2007-03-16;2012-08-23;Valid
+Robert Ryan;118993220;1988-08-19;Marshall Islands;Student;2019-07-29;2007-05-10;Pending
+Justin Rodriguez;994118812;1964-09-21;China;Student;2019-01-25;2021-06-15;Expired
+Andrew Rivera;668505822;1984-07-25;Tonga;Tourist;2020-05-12;2000-12-10;Valid
+Kevin Barajas;531866271;1991-10-14;Slovenia;Student;2015-03-14;2020-02-20;Valid
+Rebecca Johnson;131377811;1976-11-20;Bahrain;Tourist;2017-10-24;2022-04-27;Pending
+Kerry Berger;555790503;1981-01-01;Ghana;Diplomatic;2013-07-31;2015-06-29;Expired
+Terri Herman;759993593;1977-03-15;Antigua and Barbuda;Work;2014-11-12;2017-02-22;Expired
+Brenda Sanchez;926747791;1966-08-11;Puerto Rico;Student;2008-11-28;2014-01-02;Expired
+Sheila Nguyen;262491499;1971-12-14;Djibouti;Diplomatic;2001-11-29;2011-12-11;Valid
+Billy Lee;396406838;1990-04-29;Venezuela;Work;2021-01-24;2013-12-14;Pending
+Sandra Thomas;447972433;1965-05-07;Netherlands Antilles;Diplomatic;2021-10-10;2009-05-10;Expired
+Rachael King;455810386;1966-10-18;South Africa;Work;2015-11-07;2011-02-06;Expired
+Kevin Mosley;250330597;1978-02-28;Bangladesh;Diplomatic;2014-07-24;2013-11-01;Valid
+Alicia Jones;271940994;1995-01-23;Finland;Tourist;2012-02-05;2005-05-22;Expired
+Joseph Allen;852306710;1978-05-11;Tonga;Student;2021-10-15;2013-05-15;Expired
+Jessica Robinson;78328708;1998-08-14;Andorra;Diplomatic;2016-10-17;2004-04-21;Pending
+Curtis Nelson;613771771;1970-10-20;Haiti;Student;2015-03-05;2009-03-30;Valid
+Ryan Gibson;564171127;1960-06-21;Taiwan;Tourist;2008-10-17;2020-03-13;Pending
+Mary Williams;651598456;1968-10-09;Sweden;Diplomatic;2006-11-15;2022-05-15;Pending
+Tyler Gordon DDS;39632968;1968-06-16;British Indian Ocean Territory (Chagos Archipelago);Diplomatic;2003-03-13;2001-04-02;Valid
+Mikayla Kelly;689364910;1975-09-21;Holy See (Vatican City State);Work;2019-09-05;2003-08-28;Pending
+Brendan Jackson;218611408;1992-04-15;Namibia;Work;2005-07-21;2007-08-07;Expired
+Christina Pineda;241730884;1959-10-11;Tokelau;Work;2016-11-20;2006-08-11;Pending
+Arthur Huerta;346481435;1999-03-13;Denmark;Tourist;2013-05-29;2018-10-16;Valid
+Michelle Ibarra;576019858;1976-10-14;Armenia;Work;2015-09-03;2015-10-14;Expired
+Brandon Garcia;607673552;1974-03-25;Papua New Guinea;Work;2010-09-27;2014-08-04;Valid
+Henry Martin;438172176;2002-07-04;Madagascar;Student;2020-01-03;2006-01-10;Expired
+Caroline Martin;343687465;2005-05-18;French Guiana;Tourist;2018-10-19;2011-09-01;Pending
+Kathy Jones;127179058;1956-05-19;Pitcairn Islands;Tourist;2021-11-15;2006-10-17;Expired
+Evelyn Allen;467312017;1964-07-05;Palestinian Territory;Tourist;2022-01-12;2004-12-03;Valid
+Adam Holmes;352146553;1960-05-06;Dominica;Tourist;2003-08-21;2002-09-19;Expired
+Carl Pitts;230436485;1986-04-07;Tunisia;Student;2001-03-08;2008-12-19;Expired
+Mrs. Courtney Harrison;235690289;1974-02-18;Jersey;Student;2007-11-26;2019-08-31;Valid
+Zoe Reed;934198743;1974-05-27;Iran;Tourist;2023-02-09;2001-12-07;Expired
+Nichole Miller;329017910;1986-09-17;Panama;Tourist;2011-07-07;2014-03-04;Valid
+Megan Stephens;748668710;1964-04-06;Brunei Darussalam;Tourist;2014-01-19;2007-06-20;Pending
+William Harmon;616491803;1974-10-29;Mauritania;Tourist;2006-07-05;2019-08-13;Valid
+Christina Washington;442033110;2002-09-24;Brazil;Diplomatic;2022-03-02;2008-07-29;Valid
+David Rivera;999063325;1998-10-12;Slovakia (Slovak Republic);Diplomatic;2004-07-10;2016-06-28;Expired
+Brittany Bolton;641035288;1973-12-04;Ireland;Student;2007-05-21;2012-06-01;Expired
+Anthony Hall;71118536;2001-07-07;Sao Tome and Principe;Diplomatic;2018-06-06;2015-03-05;Valid
+Michelle Taylor;685126427;1967-12-03;Uganda;Student;2005-08-11;2015-09-06;Pending
+Kathleen Allison;777210192;1990-02-12;Liberia;Student;2017-08-19;2008-09-15;Pending
+Connor Franklin;948878203;1969-01-20;Lesotho;Tourist;2008-05-11;2016-08-18;Valid
+Thomas Morgan;829343133;1966-07-09;Wallis and Futuna;Work;2012-07-30;2000-12-23;Valid
+Christopher Rodriguez;372212745;2002-06-16;Zambia;Student;2002-03-15;2017-10-02;Expired
+Angela Mclaughlin;545308836;1969-11-03;Iraq;Tourist;2019-12-20;2018-12-10;Expired
+Shelley Dawson;994574035;2004-12-16;Saint Pierre and Miquelon;Tourist;2020-08-10;2001-03-21;Valid
+Michelle Lawson;753842828;1956-05-21;Pitcairn Islands;Tourist;2014-03-03;2003-05-01;Expired
+Lindsey Gates;293103310;2001-04-23;Niger;Student;2022-03-18;2008-08-13;Expired
+Brett Reid;666656805;1983-06-28;Sao Tome and Principe;Student;2011-10-18;2009-04-01;Valid
+Nicole Graham;262656228;1957-03-05;Bangladesh;Work;2023-05-27;2008-01-31;Valid
+James Evans;756714965;2003-08-17;Georgia;Diplomatic;2021-12-25;2006-05-08;Valid
+Brian Mcmillan II;146359002;1994-03-06;Lesotho;Student;2009-04-18;2018-11-06;Pending
+Monica Erickson;366156604;2001-01-13;Georgia;Student;2019-03-01;2016-05-26;Valid
+Mary Williams;469907553;1970-06-30;French Guiana;Work;2010-07-28;2019-03-20;Pending
+Dennis Wilson;124309372;2002-12-16;Central African Republic;Student;2005-02-03;2018-05-06;Pending
+Terry Sanchez;739609149;1955-01-20;Kyrgyz Republic;Student;2022-09-16;2020-12-27;Pending
+Eddie Hunter DDS;264967426;1961-08-12;Faroe Islands;Student;2005-02-24;2019-11-01;Valid
+Amber Morales;989382369;1966-04-07;Mexico;Diplomatic;2018-12-16;2021-10-15;Valid
+Jennifer Nichols;145675948;1987-03-17;Western Sahara;Tourist;2002-05-17;2010-01-22;Pending
+Justin Jackson;389782415;1953-03-26;Somalia;Work;2020-10-02;2018-07-23;Pending
+Nicholas Green;516704231;1969-09-18;Guinea-Bissau;Tourist;2003-11-02;2018-05-21;Expired
+Anna Williams;328053308;1966-04-22;Tanzania;Tourist;2021-08-10;2002-03-07;Pending
+Diana Adams;192593970;1980-07-11;Holy See (Vatican City State);Work;2001-01-21;2002-06-27;Pending
+Katherine Curry;322361701;1996-08-24;Ghana;Student;2004-02-22;2013-10-15;Valid
+Christopher Jackson;597285754;1957-09-28;Singapore;Diplomatic;2007-08-22;2013-04-18;Valid
+Dr. Thomas Bender Jr.;759748275;1967-04-19;Grenada;Work;2010-05-11;2008-03-03;Valid
+Penny Douglas;655228423;1963-06-14;Italy;Work;2004-01-02;2003-12-13;Expired
+Christina Hawkins;434495099;1957-01-22;Chad;Student;2014-09-23;2007-12-10;Valid
+Edwin Walton;277655337;1982-10-31;Namibia;Tourist;2003-04-02;2018-04-08;Valid
+Claudia Sherman;220927150;1960-06-28;Romania;Work;2005-06-13;2011-08-04;Expired
+Christopher Dixon;880551932;2001-08-05;Yemen;Work;2023-01-14;2005-06-11;Expired
+David Nielsen;909947333;2005-08-31;Guyana;Diplomatic;2003-11-06;2012-08-21;Pending
+Katie Harrell;732998276;1998-05-15;Mexico;Student;2022-07-11;2010-02-22;Valid
+Sarah Vaughn;578792249;1975-12-19;Timor-Leste;Tourist;2004-06-07;2020-12-19;Valid
+Edward Allen;240110700;1998-03-09;Saint Barthelemy;Diplomatic;2013-05-28;2016-08-28;Pending
+Kathryn Vazquez;196681660;1970-03-20;Vietnam;Work;2009-09-20;2004-04-02;Valid
+Justin Simon;701515080;1962-04-20;Peru;Diplomatic;2023-02-08;2017-01-07;Pending
+Nathan Williamson;25795217;2003-02-09;Isle of Man;Tourist;2003-07-27;2007-08-11;Valid
+Brenda Price;895569766;1972-12-04;Libyan Arab Jamahiriya;Tourist;2020-05-02;2013-12-04;Valid
+Mark Anderson;442618710;1981-07-14;Jamaica;Work;2022-07-19;2019-10-17;Valid
+Michaela Ramos;658557707;1972-04-17;Kiribati;Diplomatic;2020-08-10;2001-01-13;Pending
+Kimberly Patton;783601159;1972-03-10;Austria;Student;2014-06-04;2020-09-13;Expired
+Michael Pope;445309098;1956-04-01;United States of America;Student;2001-05-02;2020-01-18;Expired
+William Byrd;401974040;2005-09-13;Czech Republic;Work;2018-04-15;2010-09-15;Expired
+Karina Williams;71846782;1986-01-29;Wallis and Futuna;Diplomatic;2012-03-05;2008-10-16;Valid
+Zachary Collins;621627007;1991-01-31;Iceland;Work;2000-06-25;2003-09-09;Pending
+Melvin Howard;981532934;1969-03-05;Costa Rica;Student;2008-08-31;2000-11-15;Pending
+Jeffrey Ingram;981960624;1957-02-17;Denmark;Diplomatic;2001-03-28;2000-01-14;Expired
+Curtis Armstrong;814370304;1984-02-29;Suriname;Diplomatic;2005-07-20;2010-09-03;Expired
+Megan Thompson;200349260;1990-02-25;Bermuda;Work;2002-01-15;2010-02-02;Expired
+Mary Johnson;627723430;1982-08-26;Sierra Leone;Work;2012-02-29;2006-02-18;Valid
+Christopher Brown;169243399;1997-12-30;Liechtenstein;Work;2014-10-01;2010-02-25;Pending
+Katherine Hughes;490316383;1956-06-21;Chad;Student;2002-07-19;2008-07-14;Expired
+Marie Barton;214837993;1964-12-18;Sweden;Work;2001-02-19;2019-04-29;Valid
+Wendy Garrett;569587968;1952-12-24;Lesotho;Work;2021-07-01;2007-10-13;Expired
+Derek Burton;394794962;1969-04-19;Timor-Leste;Diplomatic;2015-04-17;2019-04-04;Expired
+Mr. Joseph Caldwell;492132248;1955-12-20;Luxembourg;Student;2020-01-24;2014-02-02;Expired
+Joseph Figueroa;493179004;2000-01-23;Tonga;Tourist;2013-03-04;2020-12-03;Expired
+Jasmine Thompson;301671295;1957-01-22;Guinea-Bissau;Tourist;2019-04-08;2011-08-19;Pending
+Anthony Hunt;938570754;2005-06-01;Venezuela;Diplomatic;2019-03-02;2014-12-26;Expired
+Lindsay Harper;680012261;1984-06-07;Guinea;Student;2009-05-25;2012-04-29;Expired
+Karen Watkins;629028025;1969-02-17;Kuwait;Work;2005-01-21;2022-09-02;Pending
+Jacqueline Davis;434112265;2001-09-02;Kiribati;Diplomatic;2016-06-22;2013-07-06;Valid
+Debbie Henderson;674939429;1977-04-13;Heard Island and McDonald Islands;Tourist;2022-03-29;2008-06-15;Expired
+Lee Mason;135345267;1999-06-27;Gambia;Work;2021-12-23;2020-03-03;Valid
+Cory Fuller;454321635;1962-01-30;Hungary;Diplomatic;2003-08-04;2016-07-29;Pending
+Kevin Kramer;524341969;2003-10-01;Cyprus;Work;2017-05-28;2016-01-06;Valid
+Mr. Craig Leonard DVM;520390162;1967-05-26;United States Virgin Islands;Diplomatic;2006-05-23;2010-04-03;Pending
+David David;883401750;1962-09-05;Iceland;Student;2022-10-19;2002-08-09;Valid
+Jessica Foster;787443115;1959-04-21;Gabon;Work;2018-07-18;2007-01-31;Expired
+Kristen Smith;82846689;1958-05-28;Portugal;Diplomatic;2013-02-21;2017-11-22;Valid
+Lauren Robles;477385048;1972-10-13;Lebanon;Student;2004-09-05;2023-08-07;Valid
+Michelle Silva;506994208;1978-08-23;Holy See (Vatican City State);Tourist;2005-10-12;2002-01-27;Expired
+Chris Vasquez;387155196;1981-01-31;Morocco;Diplomatic;2002-05-17;2022-01-18;Valid
+Taylor Wilson DDS;459542034;1987-01-21;Turkmenistan;Tourist;2005-06-29;2013-10-21;Pending
+April Petersen;985777303;1987-06-17;Algeria;Student;2014-12-01;2017-11-14;Valid
+Matthew Wong;900795162;2004-06-17;Lao People's Democratic Republic;Student;2016-06-11;2021-06-19;Expired
+Ashley Johnson;25866434;1969-01-15;Czech Republic;Work;2003-12-04;2001-11-22;Expired
+James Hall;677257443;1973-01-31;Sudan;Work;2003-02-06;2018-07-10;Pending
+Jason Atkinson;548819261;1976-01-17;Suriname;Diplomatic;2020-05-24;2009-05-14;Pending
+Karen Bartlett;144663089;1959-04-09;France;Student;2020-02-11;2020-07-13;Valid
+Kathryn Davis;374141920;1988-02-21;Romania;Tourist;2020-11-06;2018-07-13;Valid
+Donald Mccoy;818209755;1967-03-04;Cote d'Ivoire;Diplomatic;2013-10-02;2002-10-10;Valid
+Kyle Harper;314953597;1991-09-23;Tokelau;Student;2005-06-28;2001-07-24;Valid
+Jason Lucas;458983206;1998-09-23;Qatar;Diplomatic;2017-07-17;2020-09-24;Expired
+Travis Wilson;743453428;1994-08-13;Costa Rica;Tourist;2000-08-13;2017-07-04;Pending
+Mrs. Michelle Williams;322026712;1967-10-19;Cayman Islands;Tourist;2016-01-16;2008-07-10;Valid
+Jennifer Brown;246695871;1999-03-19;Suriname;Tourist;2018-08-22;2019-09-27;Valid
+Lauren Huffman;516161164;1989-10-20;Comoros;Student;2001-12-16;2013-10-07;Pending
+Michele Clark;469167159;1986-09-03;United States Virgin Islands;Student;2011-10-04;2000-01-31;Expired
+Brooke Goodman;992263825;1955-12-14;France;Student;2001-04-08;2008-07-09;Pending
+Justin Mccarthy;224241839;1960-11-07;Burundi;Student;2001-12-08;2013-08-14;Pending
+Christopher Williams;120271973;1979-01-02;Puerto Rico;Work;2013-02-22;2018-03-14;Expired
+Heidi Henry;138661418;1957-07-24;Martinique;Work;2004-11-10;2021-02-04;Expired
+Jessica Dunn;131518062;1965-06-23;Samoa;Work;2014-04-14;2019-06-12;Pending
+Mrs. Patricia Richardson;432294628;2001-04-11;Algeria;Diplomatic;2013-09-03;2007-11-18;Valid
+Susan Johnson;336536420;2004-08-17;Slovenia;Work;2022-03-06;2016-07-14;Pending
+Vincent Torres;836994079;1956-11-02;Djibouti;Student;2016-07-09;2008-08-28;Expired
+Joseph Davis;867813982;1970-05-11;Guatemala;Work;2023-08-20;2005-10-13;Pending
+Dave Ramos;212685886;1968-05-03;Antarctica (the territory South of 60 deg S);Diplomatic;2019-08-01;2019-11-20;Expired
+Lisa Koch;967611253;1962-04-25;Bosnia and Herzegovina;Student;2010-04-08;2005-08-29;Expired
+John Garcia;475689971;1996-03-23;Greenland;Diplomatic;2021-09-08;2003-03-02;Expired
+Cameron Spencer;707561405;1954-10-29;Marshall Islands;Work;2021-11-18;2009-09-02;Pending
+Kathleen Pitts;88004622;1972-06-19;Nepal;Diplomatic;2021-07-17;2017-01-24;Valid
+Michelle Horn;592408469;1967-09-02;Bermuda;Student;2014-09-12;2017-01-08;Pending
+Jose Orr;992840500;1963-10-15;South Georgia and the South Sandwich Islands;Student;2006-03-08;2002-02-20;Valid
+Kimberly Wood;446732820;1986-04-05;Holy See (Vatican City State);Tourist;2011-07-07;2001-07-25;Valid
+Francis Brown;296744737;2004-11-25;Saint Barthelemy;Tourist;2008-12-01;2011-01-07;Pending
+Sylvia Berry;727356044;1975-10-30;Colombia;Work;2017-09-02;2009-05-16;Expired
+Kayla Fletcher;234977962;1954-09-30;Zambia;Work;2008-08-20;2019-02-21;Pending
+Jeffrey Ellis;685258861;1996-07-02;Gibraltar;Diplomatic;2015-04-26;2020-07-16;Expired
+Jamie Rivera;246603730;1994-10-23;Romania;Work;2001-08-18;2019-04-22;Expired
+Anna Richardson;6608335;1991-07-26;Congo;Student;2015-08-19;2016-04-17;Expired
+David Rodriguez;472014812;2000-06-03;Mauritius;Work;2003-02-20;2014-03-01;Pending
+Eduardo Chandler;917912374;1966-02-19;South Georgia and the South Sandwich Islands;Tourist;2000-02-13;2008-01-06;Valid
+Joseph Hicks;866232951;2001-09-26;Guyana;Work;2017-09-07;2010-11-01;Valid
+Jenna Peterson;91347084;1968-05-06;Nigeria;Tourist;2013-11-18;2014-02-05;Valid
+Kenneth Vargas;442128512;1971-12-10;Guernsey;Diplomatic;2014-09-08;2006-07-18;Pending
+Maria Walker;334740002;1954-08-08;Iran;Student;2010-05-31;2020-04-08;Expired
+Brittney Walter;974210965;1967-05-19;Angola;Work;2017-08-25;2021-09-23;Expired
+Victoria Perez;440412666;1956-08-09;Northern Mariana Islands;Student;2023-09-24;2005-09-02;Pending
+Angela West;337225025;1979-07-09;Honduras;Student;2002-06-29;2013-07-26;Pending
+Louis Cox;142860220;1990-03-07;Faroe Islands;Diplomatic;2020-11-19;2018-02-28;Expired
+Pamela Martin;304098470;2005-06-15;Luxembourg;Work;2022-06-13;2007-02-21;Valid
+Carolyn Houston;195231422;1980-08-24;Slovakia (Slovak Republic);Tourist;2003-12-17;2017-06-26;Valid
+Catherine Martinez;283604917;1984-12-19;Lesotho;Tourist;2019-10-01;2016-10-16;Valid
+Brendan Williams;23691252;1974-02-26;Brazil;Diplomatic;2018-10-11;2015-06-15;Expired
+Natalie Levy;34626415;1975-02-10;Jersey;Tourist;2008-03-02;2022-10-21;Pending
+Lauren Clark;48914658;1974-10-16;Jersey;Tourist;2022-04-02;2023-02-02;Expired
+Danielle Smith;757265198;1953-03-17;Israel;Diplomatic;2013-08-16;2004-12-09;Expired
+Cassandra Diaz;888861982;1989-03-23;Luxembourg;Tourist;2004-10-10;2020-05-07;Expired
+Alexandra Cox;880854080;1974-11-05;San Marino;Diplomatic;2010-05-24;2002-11-26;Valid
+Amy Wilson;869492256;2005-08-21;Niger;Tourist;2002-11-09;2005-05-16;Valid
+Caitlin Green;366025312;1954-12-07;Grenada;Diplomatic;2016-08-16;2022-03-16;Expired
+Stacy Schultz;426547009;2000-07-13;Barbados;Diplomatic;2023-02-15;2009-03-16;Pending
+Bradley Campbell;723061458;1968-02-17;Palau;Work;2005-02-01;2010-01-07;Valid
+Michael Thomas;273318932;2003-08-19;Sweden;Work;2005-02-20;2004-11-20;Pending
+Larry Ferguson;527942682;2003-10-23;Georgia;Diplomatic;2009-04-22;2011-02-14;Expired
+Jasmine Sanchez;223990872;1978-01-17;Australia;Diplomatic;2015-08-17;2001-12-28;Expired
+Thomas Avila Jr.;184683151;1977-01-23;Greece;Tourist;2012-04-08;2016-07-14;Expired
+Jason Carter;200372649;1953-09-18;Myanmar;Diplomatic;2002-10-21;2000-02-16;Pending
+John Ortiz;34187556;1953-12-27;Germany;Student;2011-09-08;2002-06-27;Expired
+Richard Mccarty;207534165;1990-11-26;Liechtenstein;Work;2019-04-15;2014-02-25;Expired
+Danielle Marks;156704986;1966-04-11;Cyprus;Work;2013-06-24;2011-09-30;Pending
+Matthew Mitchell;157334525;1955-05-07;France;Tourist;2015-01-25;2004-09-06;Valid
+Eric Dunn;871979516;1970-03-01;Christmas Island;Student;2020-03-14;2010-03-10;Pending
+David Johnson;257263610;1983-11-07;Saint Kitts and Nevis;Diplomatic;2009-02-02;2009-07-08;Expired
+Sarah Wade;671142962;1977-03-20;South Africa;Work;2019-02-03;2020-06-16;Pending
+Tracey Turner;345702863;1960-05-21;Turks and Caicos Islands;Work;2023-04-13;2012-03-27;Pending
+James Jensen;691149712;1967-08-21;Armenia;Diplomatic;2014-07-30;2001-06-17;Expired
+Brian Hansen;286814648;1982-02-28;Heard Island and McDonald Islands;Diplomatic;2009-03-26;2017-09-13;Pending
+Jason Liu;361342247;1960-03-11;Saudi Arabia;Work;2005-05-29;2005-06-29;Valid
+Jeremy Carroll;847389597;1991-06-20;Papua New Guinea;Student;2004-05-03;2018-09-17;Valid
+Lisa Rose;533242059;2003-10-31;Trinidad and Tobago;Tourist;2019-01-20;2009-07-20;Valid
+Scott Berry;438212089;1959-04-17;Kuwait;Tourist;2020-01-15;2004-12-26;Valid
+David Cruz;397735191;1976-02-17;Serbia;Tourist;2007-03-22;2022-07-28;Valid
+Joyce Hayes MD;395905577;1958-05-02;Belgium;Diplomatic;2002-03-16;2006-01-30;Pending
+Benjamin Baker;152867829;1999-12-05;Liberia;Tourist;2010-01-15;2014-01-22;Valid
+Barbara Reyes;805842601;1976-02-28;Saint Pierre and Miquelon;Work;2014-09-27;2005-12-10;Expired
+Gina Barber;644550354;1983-08-22;Tajikistan;Tourist;2004-11-05;2006-02-17;Pending
+Courtney Armstrong;761774263;1996-05-25;Lithuania;Work;2003-01-06;2008-03-17;Pending
+Clarence Gutierrez;784524782;2004-07-29;Saint Pierre and Miquelon;Tourist;2009-04-26;2022-05-31;Pending
+Emma Compton;536149969;1987-01-08;Uruguay;Student;2018-08-19;2013-06-28;Valid
+Robin Williamson;15380729;2002-06-27;Mauritania;Tourist;2005-04-09;2000-09-15;Pending
+Jordan Adams;427222686;1995-07-14;Jordan;Work;2014-01-14;2013-05-24;Valid
+Kathleen Rodriguez;963690888;1983-12-03;Latvia;Student;2012-07-15;2005-11-04;Valid
+Joseph Castillo;350015581;1990-12-04;El Salvador;Work;2016-08-15;2014-03-25;Pending
+Felicia Elliott;86459450;1983-12-14;Ukraine;Student;2005-05-26;2015-08-26;Expired
+Mary Robinson;811860035;1988-08-06;Moldova;Work;2004-05-23;2012-02-06;Expired
+Alexander Huerta;305110609;1963-11-26;Croatia;Tourist;2012-06-28;2019-02-02;Pending
+Rachel Hawkins;193049821;1979-09-08;Georgia;Work;2003-09-25;2001-02-05;Expired
+Elizabeth Duncan;335713679;1990-05-29;United States Virgin Islands;Diplomatic;2023-10-15;2019-11-01;Valid
+Julie Solis;156653845;1990-08-21;Romania;Diplomatic;2014-08-27;2012-11-12;Valid
+Ashley Gill;648932358;1976-02-19;Ecuador;Diplomatic;2009-10-19;2003-05-26;Valid
+Deborah Allen;41457781;1975-12-18;Sao Tome and Principe;Tourist;2021-09-20;2015-10-31;Expired
+Brian Bartlett;993927413;1955-05-04;Lao People's Democratic Republic;Tourist;2020-11-10;2019-12-05;Pending
+Tiffany Diaz;594449640;1953-05-09;Christmas Island;Diplomatic;2004-01-28;2003-02-02;Expired
+Molly Blair;13271817;1966-10-31;India;Work;2002-08-31;2002-12-07;Valid
+Robert Curry;247627076;1983-01-09;Cyprus;Student;2003-09-22;2009-10-08;Valid
+Jake Allen;940045243;1992-02-06;Kenya;Tourist;2007-09-03;2014-03-25;Pending
+Mr. Troy Lin;186199655;2005-01-08;Saint Martin;Diplomatic;2020-06-08;2016-04-16;Expired
+Frank Murphy;388142096;1956-02-19;Costa Rica;Work;2011-07-10;2012-07-23;Expired
+Diana Ramos;31716294;1974-05-20;Italy;Diplomatic;2001-08-14;2012-11-22;Valid
+Larry Walton;383289029;1992-05-23;Tokelau;Work;2013-09-12;2014-01-18;Expired
+Robin Young;38749979;1975-05-10;Suriname;Student;2003-04-08;2023-06-25;Pending
+Lisa Jackson;608740151;1957-02-09;Kazakhstan;Work;2012-09-07;2005-01-14;Valid
+Kristen Cobb;909440849;1961-11-26;Malawi;Student;2023-03-07;2003-08-25;Pending
+Jessica Richardson;341050452;1980-07-09;Egypt;Student;2008-03-13;2013-01-28;Valid
+Travis Hill;218735751;2002-12-09;Belize;Tourist;2022-12-01;2023-06-25;Valid
+Mrs. Heather Thompson;537778239;1955-11-12;Kuwait;Diplomatic;2007-09-07;2005-10-06;Expired
+Anita Osborne;160163131;1973-02-12;Luxembourg;Work;2017-07-29;2013-08-17;Expired
+Dale Perez;590807495;1967-11-20;Uruguay;Student;2007-12-09;2006-08-05;Pending
+Martin Morris;389679868;1996-05-21;Guatemala;Diplomatic;2014-11-20;2007-07-08;Pending
+Jonathan Richardson;995513614;1958-04-09;Samoa;Diplomatic;2017-03-21;2021-10-06;Valid
+Eric Miller;757305650;1954-04-15;Bangladesh;Diplomatic;2017-11-10;2012-04-26;Pending
+Melissa Snow;242954146;1976-10-01;Martinique;Diplomatic;2020-03-18;2009-10-19;Expired
+Veronica Marshall;684163807;1984-12-15;Kazakhstan;Work;2006-09-25;2003-06-29;Expired
+Phillip Byrd;139722949;1985-03-04;Panama;Tourist;2022-02-03;2018-06-16;Valid
+Lacey Cantrell;760808979;1953-11-26;Trinidad and Tobago;Tourist;2013-09-15;2003-12-05;Expired
+Yolanda Gill;140741521;1987-06-24;British Indian Ocean Territory (Chagos Archipelago);Diplomatic;2001-01-06;2012-05-11;Valid
+Timothy Hayes;638218944;1982-07-31;Niger;Diplomatic;2009-08-12;2011-10-29;Pending
+Denise Wyatt;565114500;1996-06-22;Central African Republic;Student;2015-04-30;2006-04-01;Valid
+Kyle Rodriguez;70329500;1975-01-29;Maldives;Tourist;2007-01-12;2015-01-07;Expired
+Charles Garcia;374301068;1987-06-21;Palau;Work;2009-11-11;2000-12-06;Valid
+Traci Aguilar;79143290;1978-10-28;Gambia;Work;2004-01-31;2023-08-16;Pending
+Alexandria Choi;796073431;1965-07-19;Lithuania;Tourist;2010-05-29;2010-08-04;Pending
+Nicole Bowen DDS;711328910;1992-02-18;Netherlands;Work;2016-12-11;2005-04-10;Expired
+Todd Winters;494636781;2005-07-22;Greece;Work;2019-08-19;2001-06-16;Pending
+Alfred Munoz;517368952;1979-10-13;Guatemala;Tourist;2006-01-21;2008-03-19;Pending
+Adam May;50541722;1957-03-18;Georgia;Diplomatic;2018-12-16;2008-10-29;Expired
+Joshua Romero;293602174;1993-05-22;Czech Republic;Tourist;2019-02-04;2023-09-24;Valid
+Susan Thompson;58540207;1999-04-07;Pakistan;Diplomatic;2000-08-30;2008-07-24;Expired
+Dustin Duffy;428321797;2003-12-18;Mongolia;Work;2017-11-03;2000-01-17;Expired
+Alyssa Wilson;984934899;1986-03-17;Cocos (Keeling) Islands;Student;2005-09-14;2001-08-01;Valid
+Mike Ruiz;238356151;1970-07-05;Faroe Islands;Work;2005-04-07;2023-02-22;Pending
+Gregory Valenzuela;464948311;2004-11-05;Ghana;Tourist;2008-03-07;2023-06-16;Valid
+Daniel Campbell PhD;162489145;1961-11-23;Falkland Islands (Malvinas);Diplomatic;2008-09-15;2017-02-04;Expired
+Matthew Jones;594364370;1966-05-24;Malaysia;Work;2009-05-24;2015-06-15;Expired
+Mrs. Nancy Frazier;210214984;1983-11-20;Vietnam;Work;2017-01-09;2003-10-23;Expired
+Tyler Wong;426248438;2003-08-04;French Polynesia;Work;2020-08-17;2023-05-18;Pending
+Cynthia Vega;313237460;1968-04-13;Uzbekistan;Tourist;2015-05-28;2000-07-03;Pending
+Melanie Franklin;192172007;1955-12-27;Kyrgyz Republic;Work;2007-04-18;2010-07-16;Pending
+Karen Giles;24525156;1967-10-28;Iran;Work;2014-05-16;2020-08-15;Pending
+Kimberly Brewer;410401271;2002-10-29;Kazakhstan;Tourist;2006-05-31;2022-07-29;Pending
+James Medina;661577451;1954-11-01;Gambia;Tourist;2020-08-17;2009-12-18;Expired
+Tracey Wallace;106605562;1960-12-06;Georgia;Student;2000-08-28;2004-03-22;Expired
+Tina Jones;668272202;1967-11-13;Brazil;Student;2017-11-15;2001-01-01;Expired
+Kathleen Mason;534900381;2005-05-17;Bahrain;Tourist;2000-04-11;2014-01-17;Pending
+Nicholas Davis Jr.;651011043;1987-11-19;Congo;Student;2001-06-26;2012-02-03;Expired
+Daniel Hudson;558501581;1989-07-22;Saint Martin;Work;2011-01-03;2005-10-14;Expired
+Nicholas Johnson;58981188;1963-11-10;Netherlands Antilles;Work;2007-01-24;2016-11-27;Pending
+John Sims;836461974;2003-04-12;Finland;Student;2019-11-01;2023-08-21;Valid
+Thomas Mccarthy;809111782;1960-12-19;Finland;Tourist;2002-03-15;2023-08-03;Expired
+Kimberly Reyes;274404828;1958-12-29;Palestinian Territory;Student;2015-05-19;2003-05-11;Valid
+Thomas Harris;669582126;1999-02-08;Slovakia (Slovak Republic);Diplomatic;2004-12-04;2016-05-29;Valid
+Nancy Ortiz;644178597;1969-07-16;Guam;Tourist;2022-04-21;2020-06-16;Expired
+Ronald Hickman;378331680;1968-02-13;Sao Tome and Principe;Student;2013-01-30;2014-05-21;Expired
+James Allen;948146912;1968-01-14;Estonia;Diplomatic;2019-04-09;2014-07-19;Pending
+Pedro Smith;701000841;1954-02-19;Taiwan;Student;2001-05-01;2019-04-25;Expired
+Crystal Baker;967456707;1981-11-08;Norfolk Island;Tourist;2016-01-04;2002-05-21;Valid
+Tami Smith;751865802;2000-11-04;Cote d'Ivoire;Work;2010-08-05;2016-01-02;Pending
+Joshua Schmidt;379306218;1962-06-24;Belarus;Tourist;2006-12-25;2013-07-27;Expired
+Lisa Carpenter;125181217;2002-10-16;Marshall Islands;Work;2006-07-11;2002-07-12;Valid
+Richard Wong;426688919;1979-11-03;Bhutan;Student;2014-01-26;2010-07-08;Valid
+Chris Acosta;527292581;1991-01-10;Saudi Arabia;Diplomatic;2012-02-28;2002-08-06;Pending
+Susan Patterson;213642549;1965-11-01;Bulgaria;Student;2005-01-08;2020-11-11;Pending
+Brian Nielsen;167223831;1997-07-04;Taiwan;Work;2016-10-30;2012-03-17;Expired
+Ashley Clayton;67968310;1981-01-08;Comoros;Student;2013-10-18;2017-04-04;Expired
+Timothy Perkins;634604949;1985-08-01;Sao Tome and Principe;Tourist;2006-05-22;2002-01-27;Expired
+Jerry Sellers;940488841;1966-05-16;Mali;Student;2013-07-14;2014-06-06;Pending
+Brooke Anderson;230199073;1969-03-11;Dominican Republic;Work;2003-01-04;2000-04-01;Pending
+Maria Baird DVM;232779522;1995-10-22;Belgium;Diplomatic;2006-09-24;2012-06-06;Valid
+Sandra Taylor;682837859;1976-03-16;Puerto Rico;Tourist;2022-09-13;2023-04-19;Valid
+Alexander Gray;668967051;1973-11-08;Benin;Diplomatic;2009-12-15;2011-05-14;Pending
+Nicholas Olson;373895639;1990-12-29;Dominica;Tourist;2008-03-04;2004-07-30;Valid
+Danielle Bennett;565729263;1999-07-07;Romania;Tourist;2006-11-16;2018-05-27;Valid
+Gary Carter;393164520;1969-04-13;Indonesia;Diplomatic;2023-08-28;2020-07-12;Valid
+Ryan Neal;24616143;1980-01-06;Thailand;Work;2005-05-25;2005-05-10;Pending
+Amber Knight;959382109;1954-04-08;Equatorial Guinea;Diplomatic;2005-12-08;2006-07-12;Expired
+Jennifer Hudson;777998082;1983-03-29;Bermuda;Diplomatic;2011-03-02;2000-05-12;Pending
+Richard Moss;603158788;1978-08-10;Armenia;Diplomatic;2016-09-13;2000-06-19;Valid
+Vanessa Gomez;274086720;1997-05-02;Madagascar;Work;2021-08-25;2023-09-06;Valid
+Mark Hoover;126824898;1986-07-08;Yemen;Tourist;2012-01-10;2019-01-07;Pending
+Madison Reed;249646625;1992-06-22;Kyrgyz Republic;Student;2000-05-15;2009-04-15;Valid
+Tony Phillips;317272770;1954-04-26;India;Work;2004-05-15;2016-11-08;Expired
+Rebecca Wilson;319314647;1976-12-21;Ukraine;Diplomatic;2012-08-07;2005-01-10;Expired
+Ashley Taylor;486795978;1982-08-09;Marshall Islands;Student;2007-12-31;2022-06-07;Pending
+Michael Martin;96020717;1998-11-18;Philippines;Work;2001-07-03;2017-01-12;Valid
+Amy Robles MD;31748102;1974-03-13;Turkmenistan;Diplomatic;2018-03-17;2013-10-22;Expired
+Dorothy Glover;173268218;1991-05-03;Haiti;Tourist;2009-10-20;2017-03-23;Valid
+Charles Jacobs PhD;586469711;1968-09-29;Ecuador;Diplomatic;2005-11-27;2001-01-24;Pending
+Alexander Robinson;486005958;1983-05-17;Montenegro;Work;2011-01-04;2021-11-06;Expired
+Michael Bradley;606809950;1999-02-15;Cambodia;Tourist;2011-08-21;2014-11-16;Expired
+Christian Huynh;264279452;1971-11-19;Niger;Student;2006-09-18;2001-09-25;Pending
+Sean Eaton;555495592;2003-11-10;Saint Helena;Student;2012-01-06;2004-12-05;Valid
+Theresa Murphy;632300752;1995-12-01;Moldova;Student;2012-11-23;2007-08-11;Pending
+Catherine Shepard;613220680;1956-05-24;Niger;Work;2022-01-19;2014-06-26;Expired
+Kevin Owens;972053874;1999-04-28;Panama;Work;2011-09-20;2002-05-03;Valid
+Laura Gross;12989697;1962-03-16;Azerbaijan;Student;2012-04-27;2016-04-17;Expired
+Charles Sawyer;291490841;1957-10-27;Suriname;Diplomatic;2019-08-01;2006-01-19;Pending
+Marcus Lowe;168421148;1970-11-18;Tokelau;Student;2020-03-15;2011-11-02;Pending
+Luis Reese;80895258;1954-07-26;United States Virgin Islands;Diplomatic;2022-05-01;2019-10-16;Expired
+Brooke Brown;194101372;1970-06-30;United States Minor Outlying Islands;Diplomatic;2010-09-20;2013-08-08;Pending
+Jennifer Boyd;792239618;1953-11-19;Antarctica (the territory South of 60 deg S);Student;2020-11-17;2011-11-02;Pending
+Mary Smith;915075639;1994-03-15;Grenada;Tourist;2020-05-07;2015-08-14;Pending
+Andrew Sanchez;485493116;1963-04-12;Niue;Work;2011-01-19;2005-04-03;Valid
+Jason Robinson;889117650;1988-11-30;Netherlands;Student;2019-10-15;2022-03-30;Expired
+Brooke Schroeder;919209115;1984-07-15;Benin;Tourist;2015-06-11;2001-10-19;Expired
+April Lara;403818294;1977-12-07;Nicaragua;Tourist;2019-09-24;2022-11-10;Valid
+Lawrence Meyer;210414319;1962-10-13;Congo;Student;2008-06-21;2015-02-03;Pending
+Javier Gonzalez;892041414;1995-12-18;Greece;Tourist;2021-08-09;2011-01-12;Valid
+Lisa Hood;181491801;1977-06-19;Jordan;Tourist;2018-06-13;2008-09-05;Pending
+Timothy Flores;170392845;1955-09-12;Monaco;Work;2012-09-14;2019-10-15;Expired
+Michael Griffin;734023817;1979-09-09;Poland;Work;2019-10-10;2017-11-13;Valid
+Gregory Welch;386366742;1979-04-14;Romania;Work;2002-08-03;2015-12-15;Pending
+Gary Thompson;741151459;1976-03-10;Venezuela;Diplomatic;2015-10-07;2005-07-26;Pending
+Mark Pitts;41820294;1980-02-15;Marshall Islands;Student;2008-02-07;2010-03-29;Expired
+Dana Harper;832354089;1967-09-04;Sierra Leone;Diplomatic;2014-07-24;2011-01-18;Valid
+Casey Rodriguez;484265144;1954-09-05;Lithuania;Diplomatic;2011-12-28;2011-07-14;Valid
+Michael Wilson;506164772;1973-03-17;Botswana;Diplomatic;2020-03-29;2013-01-24;Valid
+Nancy Lopez;896331268;1960-04-27;Portugal;Tourist;2016-05-15;2011-03-07;Pending
+Alexander Duffy;469895520;1980-09-25;Maldives;Diplomatic;2018-01-20;2002-08-11;Expired
+Nathan Mccoy;223086372;1997-07-28;Tuvalu;Student;2012-06-15;2013-02-28;Valid
+Kelly Jones;633446694;1967-07-20;United States Virgin Islands;Tourist;2001-12-01;2017-01-08;Valid
+Stephanie Hunter;316174272;1971-12-16;Russian Federation;Student;2018-05-07;2011-04-11;Pending
+Michael Leach;967072111;1997-07-20;Nepal;Student;2000-06-28;2014-08-13;Expired
+Aaron Walker;160811431;1965-10-17;Mali;Tourist;2021-11-02;2006-03-28;Pending
+Jennifer Shaw;656281091;1971-03-14;Guadeloupe;Student;2008-03-19;2001-09-18;Valid
+Whitney Collins;943450104;1961-01-09;Holy See (Vatican City State);Tourist;2001-11-16;2008-05-27;Valid
+Justin Johnson;571019870;1955-06-29;Netherlands Antilles;Diplomatic;2008-09-30;2018-03-05;Valid
+Kristin Ford;401073590;1998-03-10;Morocco;Student;2001-12-18;2022-10-06;Valid
+Justin Davis;476203806;1993-07-29;New Zealand;Student;2000-12-30;2003-11-12;Valid
+Stephen Robinson;728374749;1983-08-04;Svalbard & Jan Mayen Islands;Diplomatic;2016-10-08;2015-11-08;Expired
+Benjamin Garcia;713786971;1955-10-02;Samoa;Tourist;2007-07-14;2012-06-15;Expired
+Todd Arnold DDS;696651161;1971-03-10;Turkey;Student;2006-12-14;2011-10-24;Pending
+Kristen Chambers;888768083;1990-05-02;Chad;Work;2009-09-14;2004-04-28;Pending
+Phyllis Reeves;168420425;1992-04-20;Barbados;Student;2013-11-19;2018-10-27;Valid
+Pamela Bryant;982746669;1990-07-12;South Africa;Work;2004-03-14;2019-08-26;Valid
+Christina Gordon;556560462;1982-05-09;Gabon;Tourist;2008-02-19;2019-01-13;Valid
+Donald Gonzalez;310188261;1959-06-03;Nigeria;Diplomatic;2013-08-25;2001-10-03;Pending
+William Jacobs;881247791;1985-06-14;India;Student;2001-05-29;2002-10-12;Valid
+Jordan Guerra;503544302;1991-03-06;Angola;Tourist;2008-07-08;2015-06-20;Expired
+Melissa Gibson;946637019;1960-12-20;Zimbabwe;Student;2010-06-21;2021-01-18;Pending
+John Reeves;442568330;1997-11-04;Burundi;Tourist;2014-03-03;2014-07-22;Pending
+Brittany Alvarez;95007729;1984-01-17;Brunei Darussalam;Tourist;2000-08-29;2012-01-07;Valid
+Tammy Oconnor;116244465;1957-03-18;Kiribati;Diplomatic;2020-09-20;2014-10-04;Expired
+Leslie Barrett;208558854;1983-05-21;Tajikistan;Student;2018-06-06;2005-07-28;Expired
+Pamela Smith;543860400;1959-10-31;Mauritius;Tourist;2003-06-06;2012-06-07;Expired
+Eric Taylor;180740988;1982-04-20;Guadeloupe;Diplomatic;2022-05-18;2008-04-11;Valid
+Javier Howell;806656461;1965-04-08;Malta;Diplomatic;2015-05-11;2010-01-30;Expired
+Dr. Melinda Taylor;656210362;1985-10-30;Antarctica (the territory South of 60 deg S);Tourist;2002-06-19;2012-12-01;Expired
+Christopher Davila;619898278;1957-07-18;Albania;Student;2004-12-23;2017-10-14;Expired
+Caleb Jackson;639280869;1954-04-01;Lithuania;Work;2017-10-21;2023-02-07;Pending
+Robert Mendoza;588737037;1955-02-15;Western Sahara;Tourist;2021-01-18;2020-12-20;Expired
+Michael Holder;530721988;1960-09-10;Azerbaijan;Work;2019-09-06;2013-08-06;Pending
+Joyce Mendez DVM;739599762;1992-08-21;Uruguay;Work;2007-01-19;2013-08-22;Pending
+Cheryl Estes;979311028;1989-04-01;Cuba;Student;2005-10-23;2004-01-26;Expired
+Kristina Porter;352572204;2003-05-16;Gabon;Student;2015-01-22;2020-08-14;Valid
+Diana Nunez;808585367;2004-05-24;Uzbekistan;Tourist;2004-06-09;2009-09-02;Valid
+Karen Ellis;487468575;1980-02-19;Malta;Student;2021-02-19;2013-05-28;Expired
+Brian Mccoy;856512137;1969-06-10;Mozambique;Work;2020-09-26;2022-07-07;Pending
+Jose Gibson;793604654;1973-01-08;United Kingdom;Tourist;2001-10-26;2014-10-08;Expired
+Thomas Green;585323016;1959-11-15;Mozambique;Diplomatic;2019-07-29;2008-10-19;Pending
+John Rogers;694412856;1984-12-29;Sudan;Student;2019-11-15;2011-07-30;Expired
+Paige Brown;264430662;2002-11-20;Niue;Tourist;2010-08-02;2002-08-31;Expired
+Rebecca Cook;387178480;1964-01-01;Morocco;Tourist;2021-07-04;2018-08-02;Expired
+Lisa Torres;118940603;1978-07-10;Cambodia;Tourist;2023-01-12;2019-04-01;Expired
+Tammy Padilla;889665440;1982-02-06;San Marino;Diplomatic;2004-02-19;2014-01-19;Valid
+Tony Hicks;849241139;1982-04-17;Switzerland;Tourist;2002-07-24;2023-10-01;Valid
+Lee Cox;674274146;1996-04-30;Kuwait;Work;2008-07-18;2013-07-20;Expired
+Veronica Mullins;247167024;1953-07-21;Heard Island and McDonald Islands;Work;2002-07-29;2006-07-31;Expired
+Kathleen Taylor;168442916;2001-01-30;Grenada;Student;2014-08-31;2015-03-28;Pending
+Sandra Galvan;996148478;1965-12-16;Cook Islands;Diplomatic;2022-01-10;2020-09-03;Expired
+Chelsea Clark;397699893;1968-11-22;South Georgia and the South Sandwich Islands;Work;2022-06-30;2004-02-02;Pending
+Cynthia Chang;291076957;1954-08-28;Saint Barthelemy;Work;2009-08-30;2017-08-30;Expired
+Julie Hill;466744482;1962-12-20;Gibraltar;Student;2007-01-13;2018-08-04;Valid
+Erin Schneider;183307371;1961-12-20;Estonia;Tourist;2023-09-02;2006-12-17;Valid
+Sara Smith;160812124;1995-09-12;Belgium;Tourist;2003-03-18;2022-07-30;Pending
+Christopher Bell;579656989;2005-02-03;Greece;Tourist;2000-09-04;2020-07-29;Valid
+Anna Crawford;931335258;1992-11-11;Bolivia;Tourist;2014-02-21;2020-12-13;Valid
+David Miller;30173540;2005-06-23;Canada;Tourist;2020-03-24;2018-12-29;Valid
+Katherine Cummings;917356594;1967-11-27;Moldova;Diplomatic;2005-07-04;2013-03-15;Valid
+Christina Haynes;826078409;1954-04-24;Mauritius;Work;2014-01-10;2000-09-19;Expired
+Samantha Daniels;248673012;1977-12-24;Paraguay;Diplomatic;2005-03-03;2005-06-07;Pending
+Austin Young;727819336;1962-05-14;Saudi Arabia;Tourist;2000-10-21;2004-12-16;Pending
+John Thomas;512754133;1963-03-09;Trinidad and Tobago;Tourist;2022-01-22;2019-08-13;Valid
+Brandon Ramirez;615179969;1977-11-11;Romania;Tourist;2020-09-30;2007-12-09;Pending
+Amber Reed;831274197;1960-01-09;Andorra;Work;2013-05-07;2016-02-19;Pending
+Taylor Berger;822299846;1955-01-28;Aruba;Student;2015-12-13;2015-10-30;Pending
+Cynthia Hicks;550428535;1970-02-01;Congo;Student;2000-01-27;2010-04-13;Pending
+Miss Nicole Krueger;50464276;1982-02-07;Isle of Man;Tourist;2007-08-30;2002-02-27;Valid
+Lauren Schmidt;246581529;2001-11-13;Svalbard & Jan Mayen Islands;Tourist;2003-06-01;2014-01-17;Pending
+Stephanie Nelson;662455147;2000-01-03;Seychelles;Student;2016-09-18;2009-05-07;Expired
+Edward Roberts;932513150;2002-07-27;Equatorial Guinea;Diplomatic;2022-11-26;2000-07-20;Expired
+Christopher Vasquez;580305265;1955-07-07;Saint Barthelemy;Work;2003-02-10;2013-11-19;Expired
+Mr. Nathaniel Macdonald DVM;37718969;1994-03-27;Dominica;Diplomatic;2009-12-09;2023-06-22;Pending
+Evan Terry;584043149;1971-09-22;Egypt;Tourist;2004-12-15;2013-03-24;Expired
+Laura Lawrence;194505929;1981-07-07;Micronesia;Work;2022-01-07;2003-11-28;Expired
+Christine Roberts;50977939;1993-01-27;Venezuela;Work;2000-06-19;2016-09-28;Expired
+John Hicks;549536516;1987-05-03;Belize;Tourist;2003-11-08;2020-02-16;Pending
+James Powell;161582465;1994-11-10;Tajikistan;Work;2017-09-12;2013-09-18;Pending
+Jacob Beasley MD;237278546;2000-01-03;Djibouti;Work;2013-02-07;2002-05-01;Expired
+Lisa Williams;871584446;1979-11-22;Cocos (Keeling) Islands;Diplomatic;2002-05-17;2000-06-05;Valid
+Joseph Cross;349790521;1983-02-23;Palau;Student;2013-09-22;2018-12-24;Expired
+Danielle White;927669354;1955-11-10;Austria;Tourist;2000-02-28;2010-03-23;Valid
+Tracy Weaver;686956591;1976-11-10;Madagascar;Tourist;2001-07-24;2022-10-18;Expired
+Crystal Ward;207637692;1971-01-04;United States of America;Diplomatic;2004-10-26;2010-06-13;Pending
+Sandra Galloway;578046773;1983-11-26;Bolivia;Tourist;2017-12-20;2001-09-22;Pending
+Gregory Castro;765518864;1980-05-08;Antigua and Barbuda;Tourist;2014-03-20;2002-09-16;Expired
+Thomas Fox;584826738;1992-06-29;Antigua and Barbuda;Diplomatic;2006-12-23;2007-10-31;Expired
+Harry Love;401509448;1985-07-13;Sao Tome and Principe;Tourist;2021-10-29;2022-03-27;Expired
+Ashley Green;939018054;1968-04-14;Tajikistan;Student;2015-12-01;2010-08-06;Pending
+Sean Murray;171591110;1985-12-17;Lithuania;Student;2010-11-14;2015-04-08;Pending
+Henry Mcdonald;279821009;1992-08-04;Norway;Tourist;2014-11-11;2012-05-31;Pending
+Michael Wells;167701090;1979-11-07;Holy See (Vatican City State);Diplomatic;2014-11-30;2010-10-25;Expired
+Morgan Holt;776896465;1960-08-22;Honduras;Student;2022-06-26;2007-12-04;Valid
+Catherine Gonzalez;729881682;1959-08-08;Denmark;Student;2009-07-24;2012-05-18;Expired
+Rodney Porter;774043500;1981-02-01;Iran;Student;2002-07-24;2016-12-22;Pending
+Julie Koch;829631693;2003-11-06;Afghanistan;Diplomatic;2011-08-12;2014-10-07;Expired
+Joanne Elliott;193347835;1991-06-13;Haiti;Student;2022-08-24;2005-08-10;Pending
+Doris Jones;551744215;1985-01-30;Marshall Islands;Work;2006-03-28;2007-03-27;Valid
+Krista Hawkins;782066593;1973-02-03;Vanuatu;Diplomatic;2006-12-04;2005-07-15;Expired
+Amy Newman;725291758;1999-01-05;Colombia;Diplomatic;2018-04-16;2009-01-18;Pending
+Danielle Dixon;371487554;2004-12-08;Slovenia;Tourist;2007-06-14;2016-01-26;Valid
+Darlene Hodges;758329568;1986-05-26;United States Minor Outlying Islands;Work;2013-08-22;2014-12-26;Valid
+Heather Melendez;726598670;1956-08-18;Madagascar;Work;2023-08-20;2003-04-05;Valid
+Shawn Wilson;474862294;1998-10-28;Ethiopia;Student;2018-03-21;2015-10-28;Pending
+Kristin Terrell;859217052;1976-10-09;Malta;Tourist;2020-02-19;2008-09-19;Valid
+Jason Mueller;151376179;1988-12-06;Azerbaijan;Tourist;2003-07-12;2019-08-04;Expired
+Eric Cunningham;836139667;1986-11-16;Argentina;Student;2014-07-22;2019-05-13;Expired
+Yvonne Miller;870523079;1975-09-17;Guinea-Bissau;Student;2020-07-16;2013-10-11;Valid
+William Lane;684588008;1970-02-06;Swaziland;Diplomatic;2014-04-25;2008-11-30;Pending
+Donna Hall;238787731;1963-01-09;Mexico;Student;2003-11-26;2005-11-17;Expired
+Bryan Gray;502215526;1968-10-03;Somalia;Tourist;2004-05-04;2013-05-02;Expired
+Michael Stephenson;992263549;1982-12-05;Azerbaijan;Tourist;2005-10-20;2006-11-10;Pending
+Ruth Reid;109572939;1980-09-19;United States of America;Tourist;2015-08-22;2018-04-23;Expired
+Paula Smith;224625663;2002-04-18;Togo;Diplomatic;2013-06-01;2002-12-15;Pending
+William Middleton;682766753;1976-11-16;United Kingdom;Student;2006-10-10;2008-03-26;Pending
+Richard Hoffman;459120918;1994-01-20;Finland;Work;2003-01-25;2020-02-11;Pending
+Jason Jackson;319621797;1961-05-30;Tokelau;Tourist;2006-12-23;2010-08-15;Valid
+Charles Brewer;310001384;1975-05-14;Australia;Diplomatic;2020-12-06;2002-06-26;Expired
+Frank Stevens;803756786;1974-06-01;El Salvador;Work;2006-10-15;2011-06-05;Expired
+Samantha Young;259176960;1959-12-20;Portugal;Student;2015-09-03;2012-02-01;Expired
+Erika Long;429075553;1955-06-11;Bouvet Island (Bouvetoya);Student;2005-11-25;2023-02-13;Expired
+Kelly Caldwell;665901882;2001-05-06;Tuvalu;Work;2019-11-05;2001-12-22;Valid
+Monica Ortiz;298863121;1999-01-21;United States Virgin Islands;Work;2012-10-24;2019-06-22;Pending
+Jamie Duncan;695123730;1955-03-08;Bahrain;Diplomatic;2017-05-23;2008-07-09;Pending
+John Harris;439350345;1986-03-17;Palau;Tourist;2009-07-08;2015-11-02;Pending
+Jacqueline Diaz;937455575;1955-09-20;Thailand;Tourist;2006-07-16;2019-05-13;Expired
+Brian Rivera;128531377;1952-12-13;Jersey;Tourist;2007-05-02;2020-07-11;Expired
+Sarah Williams;745907222;1961-11-19;Dominica;Tourist;2010-05-16;2007-10-06;Expired
+Matthew Bennett;299298743;1972-10-06;Timor-Leste;Tourist;2004-12-27;2009-11-30;Pending
+Jamie Kramer;101925261;1954-05-20;Burundi;Tourist;2017-05-30;2017-07-02;Expired
+Bruce Bell;165531224;1979-01-18;Kyrgyz Republic;Diplomatic;2000-11-16;2021-04-25;Expired

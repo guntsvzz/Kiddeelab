@@ -58,4 +58,5 @@ elif page == "View Data":
     # Display data in a table
     data_list = [line.split(';') for line in data.split('\n') if line]
     df = pd.DataFrame(data_list, columns=["Name", "Gender", "Age"])
-    st.dataframe(df)
+    # Skip the first row, which is the header
+    st.dataframe(df.iloc[1:], use_container_width=True)
