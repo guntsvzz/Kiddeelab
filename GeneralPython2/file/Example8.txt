@@ -1,4 +1,0 @@
-Name;Gender;Age
-Gun;m;23
-Sea;f;23
-Reef;m;26
