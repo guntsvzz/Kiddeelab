@@ -1,0 +1,3 @@
+Name;Gender;Age
+Thomas;male;24
+micheal;female;24
