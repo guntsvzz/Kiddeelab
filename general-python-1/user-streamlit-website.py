@@ -9,7 +9,7 @@ python -m streamlit run your_script.py
 # is equivalent to:
 streamlit run your_script.py
 
-# python3 -m streamlit run 6-streamlit-website.py
+# python3 -m streamlit run user-streamlit-website.py
 '''
 
 import streamlit as st
