@@ -9,6 +9,7 @@
 - Halocode
 - General Python
 - Arduino Python
+- Machine Learning
 - Pygame Zero
 - Pygame
 - Robot Arm

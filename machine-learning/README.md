@@ -22,3 +22,18 @@ Machine Learning - Course Curriculum
     - Project 3: Load Predicrtion
 - Single Value Decompostion (SVD)
     - Project 1: Movie Recommendation
+
+
+Course Syllabus
+01 - Intro of ML and Data Preprocessing
+02 - Preprocessing
+03 - Regression Lecture
+04 - Regression Coding
+05 - Classification Lecture
+06 - Binary Classification Coding
+07 - Multimodial Classification Coding
+08 - Cross Validation and Metric Evaluation
+09 - SVM
+10 - Clustering
+11 - Deep Learning I
+12 - Deep Learning II
