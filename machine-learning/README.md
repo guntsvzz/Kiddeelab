@@ -25,7 +25,7 @@ Machine Learning - Course Curriculum
 
 
 Course Syllabus
-01 - Intro of ML and Data Preprocessing
+01 - Intro of ML and Data Exploration
 02 - Preprocessing
 03 - Regression Lecture
 04 - Regression Coding
