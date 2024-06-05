@@ -1,7 +1,6 @@
 # Kiddeelab
 
 ## Course Syllabus
-
 - Tinkamo
 - Codey Rocky
 - mBot
@@ -17,11 +16,12 @@
 - Application Design
 - 3D Model
 
-
 ## Docker 101
+```
 git status
 git pull
 git status
 git add .
 git commit -m update
 git push
+```
