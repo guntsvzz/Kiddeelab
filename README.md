@@ -1,26 +1,22 @@
 # Kiddeelab
 
-
-# About this repository
-
-This repository is used for hosting the GitHub page of the AIT Brainlab website.
-This branch is version 2 of the site using `HUGO` https://gohugo.io
+## About this repository
 
 ## Course Syllabus
-- Tinkamo
-- Codey Rocky
-- mBot
-- Game and Animation
-- Halocode
-- General Python
-- Arduino Python
-- Machine Learning
-- Pygame Zero
-- Pygame
-- Robot Arm
-- ioT
-- Application Design
-- 3D Model
+Sure, here is the table categorized into three rows: kid, child, and teenager:
+
+| Kid                   |  Child           | Teenager           |
+|-----------------------|------------------|--------------------|
+| Tinkamo               | Codey Rocky      | General Python     |
+| mBot                  | Halocode         | Arduino Python     |
+| Game and Animation    | Machine Learning | Pygame Zero        |
+|                       |                  | Pygame             |
+|                       |                  | Robot Arm          |
+|                       |                  | ioT                |
+|                       |                  | Application Design |
+|                       |                  | 3D Model           |
+
+This categorization is based on the assumption that activities like Tinkamo and mBot are more suitable for younger children, while older children and teenagers can handle more complex tasks like Machine Learning and Application Design.
 
 # For development
 
