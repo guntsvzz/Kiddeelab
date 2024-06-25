@@ -5,16 +5,16 @@
 ## Course Syllabus
 Sure, here is the table categorized into three rows: kid, child, and teenager:
 
-| Kid                   |  Child           | Teenager           |
-|-----------------------|------------------|--------------------|
-| Tinkamo               | Codey Rocky      | General Python     |
-| mBot                  | Halocode         | Arduino Python     |
-| Game and Animation    | Machine Learning | Pygame Zero        |
-|                       |                  | Pygame             |
-|                       |                  | Robot Arm          |
-|                       |                  | ioT                |
-|                       |                  | Application Design |
-|                       |                  | 3D Model           |
+| Kid               |  Child             | Teenager           |
+|-------------------|--------------------|--------------------|
+| Tinkamo           | Codey Rocky        | General Python     |
+| mBot              | Game & Animation   | Arduino Python     |
+|                   | Halocode           | Pygame Zero        |
+|                   | 3D Model           | Pygame             |
+|                   | Application Design | Robot Arm          |
+|                   |                    | ioT                |
+|                   |                    | 3D Model           |
+|                   |                    | Machine Learning   |
 
 This categorization is based on the assumption that activities like Tinkamo and mBot are more suitable for younger children, while older children and teenagers can handle more complex tasks like Machine Learning and Application Design.
 
