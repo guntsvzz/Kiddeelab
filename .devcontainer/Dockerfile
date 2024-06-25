@@ -38,7 +38,8 @@ RUN apt install -y \
     build-essential \
     sudo \
     python3-pip \
-    python3-pygame 
+    python3-pygame \
+    python3-tk
     # -qqy x11-apps
 
 #Basic

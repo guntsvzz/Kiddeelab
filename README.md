@@ -1,5 +1,11 @@
 # Kiddeelab
 
+
+# About this repository
+
+This repository is used for hosting the GitHub page of the AIT Brainlab website.
+This branch is version 2 of the site using `HUGO` https://gohugo.io
+
 ## Course Syllabus
 - Tinkamo
 - Codey Rocky
@@ -15,6 +21,16 @@
 - ioT
 - Application Design
 - 3D Model
+
+# For development
+
+This project is built on `Docker`.
+
+All you need to do is cloned this repository and then build an image using `docker compose`
+
+```shell
+docker compose up --build -d
+```
 
 ## Docker 101
 ```
